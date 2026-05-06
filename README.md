@@ -15,7 +15,7 @@ This package implements the REST concepts described in `restfull-api.txt` as a r
 ## Run Locally
 
 ```bash
-cd packages/restfull-api
+cd restfull-api
 php -S 127.0.0.1:8080 -t public public/index.php
 ```
 
