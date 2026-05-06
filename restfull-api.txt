@@ -1,0 +1,1622 @@
+<!DOCTYPE html>
+<!-- saved from url=(0046)https://almond.petros.xyz/php/php#useful-links -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" dir="ltr" class="js"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style class="anchorjs"></style><style type="text/css">span.iconify, i.iconify, iconify-icon { display: inline-block; width: 1em; }</style>
+    
+    <title>Useful links [Almond: [directory links]]</title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="./restfull-api_files/css.php" rel="stylesheet"><link rel="shortcut icon" href="https://almond.petros.xyz/lib/tpl/bootstrap3/images/favicon.ico">
+<link rel="apple-touch-icon" href="https://almond.petros.xyz/lib/tpl/bootstrap3/images/apple-touch-icon.png">
+<meta name="generator" content="DokuWiki">
+<meta name="robots" content="noindex,nofollow">
+<meta name="keywords" content="php,php">
+<link rel="search" type="application/opensearchdescription+xml" href="https://almond.petros.xyz/lib/exe/opensearch.php" title="Almond: [directory links]">
+<link rel="start" href="https://almond.petros.xyz/">
+<link rel="contents" href="https://almond.petros.xyz/php/php?do=index" title="Sitemap">
+<link rel="manifest" href="https://almond.petros.xyz/lib/exe/manifest.php" crossorigin="use-credentials">
+<link rel="alternate" type="application/rss+xml" title="Recent Changes" href="https://almond.petros.xyz/feed.php">
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="https://almond.petros.xyz/feed.php?mode=list&amp;ns=php">
+<link rel="edit" title="Edit this page" href="https://almond.petros.xyz/php/php?do=edit">
+<link rel="alternate" type="text/html" title="Plain HTML" href="https://almond.petros.xyz/_export/xhtml/php/php">
+<link rel="alternate" type="text/plain" title="Wiki Markup" href="https://almond.petros.xyz/_export/raw/php/php">
+<link rel="canonical" href="https://almond.petros.xyz/php/php">
+<link rel="stylesheet" href="./restfull-api_files/css(1).php">
+<script>var NS='php';var SIG=" --- \/\/[[servicehy@hotmail.com|Peter Petropoulos]] 2026\/05\/06 11:35\/\/";var JSINFO = {"bootstrap3":{"mode":"show","toc":[],"config":{"collapsibleSections":0,"fixedTopNavbar":1,"showSemanticPopup":0,"sidebarOnNavbar":0,"tagsOnTop":1,"tocAffix":1,"tocCollapseOnScroll":1,"tocCollapsed":0,"tocLayout":"default","useAnchorJS":1,"useAlternativeToolbarIcons":1,"disableSearchSuggest":0}},"id":"php:php","namespace":"php","ACT":"show","useHeadingNavigation":1,"useHeadingContent":1};(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<script src="./restfull-api_files/jquery.php" defer="defer"></script>
+<script src="./restfull-api_files/js.php" defer="defer"></script>
+<style type="text/css">@media screen { body { margin-top: 80px; }  #dw__toc.affix { top: 70px; position: fixed !important; }  #dw__toc .nav .nav .nav { display: none; } }</style>
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script type="text/javascript" src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body class="flatly dokuwiki mode_show tpl_bootstrap3 loggedIn dw-page-on-panel dw-fluid-container" data-page-id="php:php"><div class="dokuwiki">
+    <header id="dokuwiki__header" class="dw-container dokuwiki container-fluid mx-5">
+    <!-- navbar -->
+<nav id="dw__navbar" class="navbar navbar-fixed-top navbar-default" role="navigation">
+
+    <div class="dw-container container-fluid mx-5">
+
+        <div class="navbar-header">
+
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+            <a class="navbar-brand d-flex align-items-center" href="https://almond.petros.xyz/start" accesskey="h" title="Almond: [directory links]"><img id="dw__logo" class="pull-left h-100 mr-4" alt="Almond: [directory links]" src="./restfull-api_files/logo.png"><div class="pull-right"><div id="dw__title">Almond: [directory links]</div></div></a>
+        </div>
+
+        <div class="collapse navbar-collapse">
+
+            
+            
+            <div class="navbar-right" id="dw__navbar_items">
+
+                <!-- navbar-searchform -->
+<form action="https://almond.petros.xyz/php/php" accept-charset="utf-8" class="navbar-form navbar-left search" id="dw__search" method="get" role="search">
+    <div class="input-group">
+        <input id="qsearch" autocomplete="off" type="search" placeholder="Search" value="" accesskey="f" name="q" class="form-control" title="[F]">
+        <div class="input-group-btn">
+            <button class="btn btn-default" type="submit" title="Search">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:magnify" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5l-1.5 1.5l-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16A6.5 6.5 0 0 1 3 9.5A6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14S14 12 14 9.5S12 5 9.5 5z" fill="currentColor"></path></svg>            </button>
+        </div>
+
+    </div>
+    <input type="hidden" name="do" value="search">
+</form>
+<!-- /navbar-searchform -->
+<!-- tools-menu -->
+<ul class="nav navbar-nav dw-action-icon" id="dw__tools">
+
+    
+    <li class="dropdown">
+
+        <a href="https://almond.petros.xyz/php/php" class="dropdown-toggle" data-target="#" data-toggle="dropdown" title="" role="button" aria-haspopup="true" aria-expanded="false">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:wrench" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M22.7 19l-9.1-9.1c.9-2.3.4-5-1.5-6.9c-2-2-5-2.4-7.4-1.3L9 6L6 9L1.6 4.7C.4 7.1.9 10.1 2.9 12.1c1.9 1.9 4.6 2.4 6.9 1.5l9.1 9.1c.4.4 1 .4 1.4 0l2.3-2.3c.5-.4.5-1.1.1-1.4z" fill="currentColor"></path></svg> <span class="hidden-lg hidden-md hidden-sm">Tools</span> <span class="caret"></span>
+        </a>
+
+        <ul class="dropdown-menu tools" role="menu">
+            
+            <li class="dropdown-header">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:account" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M12 4a4 4 0 0 1 4 4a4 4 0 0 1-4 4a4 4 0 0 1-4-4a4 4 0 0 1 4-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z" fill="currentColor"></path></svg> User Tools            </li>
+
+            <li class="action"><a href="https://almond.petros.xyz/php/php?do=profile" title="Update Profile" rel="nofollow" class="menuitem profile"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M2 3h20c1.05 0 2 .95 2 2v14c0 1.05-.95 2-2 2H2c-1.05 0-2-.95-2-2V5c0-1.05.95-2 2-2m12 3v1h8V6h-8m0 2v1h8V8h-8m0 2v1h7v-1h-7m-6 3.91C6 13.91 2 15 2 17v1h12v-1c0-2-4-3.09-6-3.09M8 6a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3z"></path></svg><span>Update Profile</span></a></li><li class="action"><a href="https://almond.petros.xyz/php/php?do=admin" title="Admin" rel="nofollow" class="menuitem admin"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 15.5A3.5 3.5 0 0 1 8.5 12 3.5 3.5 0 0 1 12 8.5a3.5 3.5 0 0 1 3.5 3.5 3.5 3.5 0 0 1-3.5 3.5m7.43-2.53c.04-.32.07-.64.07-.97 0-.33-.03-.66-.07-1l2.11-1.63c.19-.15.24-.42.12-.64l-2-3.46c-.12-.22-.39-.31-.61-.22l-2.49 1c-.52-.39-1.06-.73-1.69-.98l-.37-2.65A.506.506 0 0 0 14 2h-4c-.25 0-.46.18-.5.42l-.37 2.65c-.63.25-1.17.59-1.69.98l-2.49-1c-.22-.09-.49 0-.61.22l-2 3.46c-.13.22-.07.49.12.64L4.57 11c-.04.34-.07.67-.07 1 0 .33.03.65.07.97l-2.11 1.66c-.19.15-.25.42-.12.64l2 3.46c.12.22.39.3.61.22l2.49-1.01c.52.4 1.06.74 1.69.99l.37 2.65c.04.24.25.42.5.42h4c.25 0 .46-.18.5-.42l.37-2.65c.63-.26 1.17-.59 1.69-.99l2.49 1.01c.22.08.49 0 .61-.22l2-3.46c.12-.22.07-.49-.12-.64l-2.11-1.66z"></path></svg><span>Admin</span></a></li><li class="action"><a href="https://almond.petros.xyz/php/php?do=logout&amp;sectok=8bb6b73595a70e57668b93e8aca49b56" title="Log Out" rel="nofollow" class="menuitem logout"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M17 17.25V14h-7v-4h7V6.75L22.25 12 17 17.25M13 2a2 2 0 0 1 2 2v4h-2V4H4v16h9v-4h2v4a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9z"></path></svg><span>Log Out</span></a></li>
+                        <li class="divider" role="separator"></li>
+            
+        
+            <li class="dropdown-header">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:toolbox" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M9 5v1h6V5H9m13 13c0 .53-.21 1-.6 1.41c-.4.4-.85.59-1.4.59H4c-.55 0-1-.19-1.4-.59C2.21 19 2 18.53 2 18v-4h5v1h2v-1h6v1h2v-1h5v4M4.5 7.22C4.84 6.41 5.45 6 6.33 6H7V5c0-.55.18-1 .57-1.41C7.96 3.2 8.44 3 9 3h6c.56 0 1.04.2 1.43.59c.39.41.57.86.57 1.41v1h.67c.88 0 1.49.41 1.83 1.22L21.58 12H17v-1h-2v1H9v-1H7v1H2.42L4.5 7.22z" fill="currentColor"></path></svg> Site Tools            </li>
+
+            <li class="action"><a href="https://almond.petros.xyz/php/php?do=recent" title="Recent Changes [r]" rel="nofollow" accesskey="r" class="menuitem recent"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M15 13h1.5v2.82l2.44 1.41-.75 1.3L15 16.69V13m4-5H5v11h4.67c-.43-.91-.67-1.93-.67-3a7 7 0 0 1 7-7c1.07 0 2.09.24 3 .67V8M5 21a2 2 0 0 1-2-2V5c0-1.11.89-2 2-2h1V1h2v2h8V1h2v2h1a2 2 0 0 1 2 2v6.1c1.24 1.26 2 2.99 2 4.9a7 7 0 0 1-7 7c-1.91 0-3.64-.76-4.9-2H5m11-9.85A4.85 4.85 0 0 0 11.15 16c0 2.68 2.17 4.85 4.85 4.85A4.85 4.85 0 0 0 20.85 16c0-2.68-2.17-4.85-4.85-4.85z"></path></svg><span>Recent Changes</span></a></li><li class="action"><a href="https://almond.petros.xyz/php/php?do=media&amp;ns=php" title="Media Manager" rel="nofollow" class="menuitem media"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M7 15l4.5-6 3.5 4.5 2.5-3L21 15m1-11h-8l-2-2H6a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2M2 6H0v14a2 2 0 0 0 2 2h18v-2H2V6z"></path></svg><span>Media Manager</span></a></li><li class="action"><a href="https://almond.petros.xyz/php/php?do=index" title="Sitemap [x]" rel="nofollow" accesskey="x" class="menuitem index"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M3 3h6v4H3V3m12 7h6v4h-6v-4m0 7h6v4h-6v-4m-2-4H7v5h6v2H5V9h2v2h6v2z"></path></svg><span>Sitemap</span></a></li>
+                        <li class="divider" role="separator"></li>
+            
+        
+            <li class="dropdown-header">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:file-document-outline" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M6 2a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6H6m0 2h7v5h5v11H6V4m2 8v2h8v-2H8m0 4v2h5v-2H8z" fill="currentColor"></path></svg> Page Tools            </li>
+
+            <li class="action"><a href="https://almond.petros.xyz/php/php?do=edit" title="Edit this page [e]" rel="nofollow" accesskey="e" class="menuitem edit"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"></path></svg><span>Edit this page</span></a></li><li class="action"><a href="https://almond.petros.xyz/php/php?do=revisions" title="Old revisions [o]" rel="nofollow" accesskey="o" class="menuitem revs"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M11 7v5.11l4.71 2.79.79-1.28-4-2.37V7m0-5C8.97 2 5.91 3.92 4.27 6.77L2 4.5V11h6.5L5.75 8.25C6.96 5.73 9.5 4 12.5 4a7.5 7.5 0 0 1 7.5 7.5 7.5 7.5 0 0 1-7.5 7.5c-3.27 0-6.03-2.09-7.06-5h-2.1c1.1 4.03 4.77 7 9.16 7 5.24 0 9.5-4.25 9.5-9.5A9.5 9.5 0 0 0 12.5 2z"></path></svg><span>Old revisions</span></a></li><li class="action"><a href="https://almond.petros.xyz/php/php?do=backlink" title="Backlinks" rel="nofollow" class="menuitem backlink"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M10.59 13.41c.41.39.41 1.03 0 1.42-.39.39-1.03.39-1.42 0a5.003 5.003 0 0 1 0-7.07l3.54-3.54a5.003 5.003 0 0 1 7.07 0 5.003 5.003 0 0 1 0 7.07l-1.49 1.49c.01-.82-.12-1.64-.4-2.42l.47-.48a2.982 2.982 0 0 0 0-4.24 2.982 2.982 0 0 0-4.24 0l-3.53 3.53a2.982 2.982 0 0 0 0 4.24m2.82-4.24c.39-.39 1.03-.39 1.42 0a5.003 5.003 0 0 1 0 7.07l-3.54 3.54a5.003 5.003 0 0 1-7.07 0 5.003 5.003 0 0 1 0-7.07l1.49-1.49c-.01.82.12 1.64.4 2.43l-.47.47a2.982 2.982 0 0 0 0 4.24 2.982 2.982 0 0 0 4.24 0l3.53-3.53a2.982 2.982 0 0 0 0-4.24.973.973 0 0 1 0-1.42z"></path></svg><span>Backlinks</span></a></li><li class="action"><a href="https://almond.petros.xyz/php/php#dokuwiki__top" title="Back to top [t]" rel="nofollow" accesskey="t" class="menuitem top"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"></path></svg><span>Back to top</span></a></li>
+            
+                </ul>
+    </li>
+
+    
+</ul>
+<!-- /tools-menu -->
+
+                <ul class="nav navbar-nav">
+
+                    <li class="hidden-xs"><a href="https://almond.petros.xyz/php/php?do=edit" title="Edit this page [e]" rel="nofollow" accesskey="e" class="menuitem edit"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"></path></svg></a></li>
+                    
+                </ul>
+
+                
+                <!-- user-menu -->
+<ul class="nav navbar-nav" id="dw__user_menu">
+    <li class="dropdown">
+
+        <a href="https://almond.petros.xyz/php/php" class="dropdown-toggle" data-target="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:account" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M12 4a4 4 0 0 1 4 4a4 4 0 0 1-4 4a4 4 0 0 1-4-4a4 4 0 0 1 4-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z" fill="currentColor"></path></svg>             <span class="hidden-lg hidden-md hidden-sm">admin</span> <span class="caret"></span>
+        </a>
+
+        <ul class="dropdown-menu" role="menu">
+
+            <li>
+
+                <div class="container-fluid">
+
+                    <p class="text-right">
+                        <span style="cursor:help" class="label label-danger" title="Groups: admin, user">
+                            Admin                        </span>
+                    </p>
+
+                    <p class="text-center">
+                        <img alt="admin" src="./restfull-api_files/avatar.png" class="img-circle" width="96" height="96">
+                    </p>
+
+                    <div class="mb-2">
+                        <div class="mb-2">
+                            <strong>Peter Petropoulos</strong>
+                        </div>
+                        <div class="small">
+                            <bdi>admin</bdi>
+                        </div>
+                        <div class="small">
+                            servicehy@hotmail.com                        </div>
+                    </div>
+
+                </div>
+
+            </li>
+
+            <li class="divider"></li>
+
+                        <li class="dropdown-header">Home-Page</li>
+            
+            <li>
+                <a href="https://almond.petros.xyz/user/admin" title="Home-Page" rel="nofollow">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:home-account" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M12 3L2 12h3v8h14v-8h3L12 3m0 5.75A2.25 2.25 0 0 1 14.25 11A2.25 2.25 0 0 1 12 13.25A2.25 2.25 0 0 1 9.75 11A2.25 2.25 0 0 1 12 8.75M12 15c1.5 0 4.5.75 4.5 2.25V18h-9v-.75c0-1.5 3-2.25 4.5-2.25z" fill="currentColor"></path></svg> Home-Page
+                </a>
+            </li>
+
+                        <li class="divider"></li>
+            
+            <li class="dropdown-header">User Tools</li>
+
+            <li class="action"><a href="https://almond.petros.xyz/php/php?do=profile" title="Update Profile" rel="nofollow" class="menuitem profile"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M2 3h20c1.05 0 2 .95 2 2v14c0 1.05-.95 2-2 2H2c-1.05 0-2-.95-2-2V5c0-1.05.95-2 2-2m12 3v1h8V6h-8m0 2v1h8V8h-8m0 2v1h7v-1h-7m-6 3.91C6 13.91 2 15 2 17v1h12v-1c0-2-4-3.09-6-3.09M8 6a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3z"></path></svg><span>Update Profile</span></a></li><li class="action"><a href="https://almond.petros.xyz/php/php?do=admin" title="Admin" rel="nofollow" class="menuitem admin"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 15.5A3.5 3.5 0 0 1 8.5 12 3.5 3.5 0 0 1 12 8.5a3.5 3.5 0 0 1 3.5 3.5 3.5 3.5 0 0 1-3.5 3.5m7.43-2.53c.04-.32.07-.64.07-.97 0-.33-.03-.66-.07-1l2.11-1.63c.19-.15.24-.42.12-.64l-2-3.46c-.12-.22-.39-.31-.61-.22l-2.49 1c-.52-.39-1.06-.73-1.69-.98l-.37-2.65A.506.506 0 0 0 14 2h-4c-.25 0-.46.18-.5.42l-.37 2.65c-.63.25-1.17.59-1.69.98l-2.49-1c-.22-.09-.49 0-.61.22l-2 3.46c-.13.22-.07.49.12.64L4.57 11c-.04.34-.07.67-.07 1 0 .33.03.65.07.97l-2.11 1.66c-.19.15-.25.42-.12.64l2 3.46c.12.22.39.3.61.22l2.49-1.01c.52.4 1.06.74 1.69.99l.37 2.65c.04.24.25.42.5.42h4c.25 0 .46-.18.5-.42l.37-2.65c.63-.26 1.17-.59 1.69-.99l2.49 1.01c.22.08.49 0 .61-.22l2-3.46c.12-.22.07-.49-.12-.64l-2.11-1.66z"></path></svg><span>Admin</span></a></li>
+            
+            <li class="divider"></li>
+
+            
+            <li class="action"><a href="https://almond.petros.xyz/php/php?do=logout&amp;sectok=8bb6b73595a70e57668b93e8aca49b56" title="Log Out" rel="nofollow" class="menuitem logout"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M17 17.25V14h-7v-4h7V6.75L22.25 12 17 17.25M13 2a2 2 0 0 1 2 2v4h-2V4H4v16h9v-4h2v4a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9z"></path></svg><span>Log Out</span></a></li>
+        </ul>
+    </li>
+</ul>
+<!-- /user-menu -->
+
+            </div>
+
+        </div>
+    </div>
+</nav>
+<!-- navbar -->
+    </header>
+
+    <a name="dokuwiki__top" id="dokuwiki__top"></a>
+
+    <main role="main" class="dw-container pb-5 dokuwiki container-fluid mx-5">
+
+        <div id="dokuwiki__pageheader">
+
+            
+            
+            <p class="text-right">
+                            </p>
+
+            <div id="dw__msgarea" class="small">
+                            </div>
+
+        </div>
+
+        <div class="row">
+
+            <!-- sidebar -->
+<aside id="dokuwiki__aside" class="dw__sidebar col-sm-3 col-md-2 hidden-print">
+    <div class="dw-sidebar-content">
+        <div class="dw-sidebar-title hidden-lg hidden-md hidden-sm" data-toggle="collapse" data-target="#dokuwiki__aside .dw-sidebar-body">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:view-list" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M9 5v4h12V5M9 19h12v-4H9m0-1h12v-4H9M4 9h4V5H4m0 14h4v-4H4m0-1h4v-4H4v4z" fill="currentColor"></path></svg> Sidebar        </div>
+        <div class="dw-sidebar-body collapse in small">
+            <ul class="nav  nav-pills nav-stacked">
+<li class="level1"> <a href="https://almond.petros.xyz/start" class="wikilink1" title="start">Home</a>
+</li>
+<li class="level1"> <a href="https://almond.petros.xyz/technical/technical" class="wikilink1" title="technical:technical">Technical</a>
+</li>
+<li class="level1"> <a href="https://almond.petros.xyz/freebsd/freebsd" class="wikilink1" title="freebsd:freebsd">FreeBSD</a>
+</li>
+<li class="level1"> <a href="https://almond.petros.xyz/linux/linux" class="wikilink1" title="linux:linux">Linux</a>
+</li>
+<li class="level1"> <a href="https://almond.petros.xyz/apple/apple" class="wikilink1" title="apple:apple">Apple</a>
+</li>
+<li class="level1"> <a href="https://almond.petros.xyz/mswindows/mswindows" class="wikilink1" title="mswindows:mswindows">MS Windows</a>
+</li>
+<li class="level1"> <a href="https://almond.petros.xyz/html/html" class="wikilink1" title="html:html">Html/CSS</a>
+</li>
+<li class="level1 active"> <a href="https://almond.petros.xyz/php/php" class="wikilink1" title="php:php" data-wiki-curid="true">PHP</a>
+</li>
+<li class="level1"> <a href="https://almond.petros.xyz/ruby/ruby" class="wikilink1" title="ruby:ruby">Ruby</a>
+</li>
+<li class="level1"> <a href="https://almond.petros.xyz/mysql/mysql" class="wikilink1" title="mysql:mysql">MySQL</a>
+</li>
+<li class="level1"> <a href="https://almond.petros.xyz/javascript/javascript" class="wikilink1" title="javascript:javascript">Javascript</a>
+</li>
+<li class="level1"> <a href="https://almond.petros.xyz/framework/framework" class="wikilink1" title="framework:framework">Frameworks</a>
+</li>
+<li class="level1"> <a href="https://almond.petros.xyz/cryptocurrencies/cryptocurrencies" class="wikilink1" title="cryptocurrencies:cryptocurrencies">Cryptocurrencies</a>
+</li>
+</ul>        </div>
+    </div>
+</aside>
+<!-- /sidebar -->
+
+            <article id="dokuwiki__content" class="col-sm-9 col-md-10 " itemscope="" itemtype="http://schema.org/Article" itemref="dw__license">
+
+                <!-- /page-tools -->
+
+                <div class="panel panel-default px-3 py-2" itemprop="articleBody">
+                    <div class="page panel-body">
+
+                        <!-- page-icons -->
+<div class="dw-page-icons pull-right hidden-print">
+    <ul class="list-inline">
+    <li class="shareon dropdown"><a href="https://almond.petros.xyz/php/php#" title="Share via" rel="nofollow" class="menuitem dropdown-toggle shareon" data-toggle="dropdown" data-remote="/php/php" data-target="#" aria-haspopup="true" aria-expanded="true"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="mdi-share-variant" width="24" height="24" viewBox="0 0 24 24"><path d="M18,16.08C17.24,16.08 16.56,16.38 16.04,16.85L8.91,12.7C8.96,12.47 9,12.24 9,12C9,11.76 8.96,11.53 8.91,11.3L15.96,7.19C16.5,7.69 17.21,8 18,8C19.66,8 21,6.66 21,5C21,3.34 19.66,2 18,2C16.34,2 15,3.34 15,5C15,5.24 15.04,5.47 15.09,5.7L8.04,9.81C7.5,9.31 6.79,9 6,9C4.34,9 3,10.34 3,12C3,13.66 4.34,15 6,15C6.79,15 7.5,14.69 8.04,14.19L15.16,18.34C15.11,18.55 15.08,18.77 15.08,19C15.08,20.61 16.39,21.91 18,21.91C19.61,21.91 20.92,20.61 20.92,19C20.92,17.39 19.61,16.08 18,16.08Z"></path></svg><span>Share via</span></a><ul class="dropdown-menu"><li class="dropdown-header"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:share-variant" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7c0-.24-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3a3 3 0 0 0-3-3a3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3a3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66c0 1.61 1.31 2.91 2.92 2.91c1.61 0 2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08z" fill="currentColor"></path></svg> Share via...</li><li><a href="https://almond.petros.xyz/php/php#" class="share share-twitter" title="Share via Twitter"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:twitter" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M22.46 6c-.77.35-1.6.58-2.46.69c.88-.53 1.56-1.37 1.88-2.38c-.83.5-1.75.85-2.72 1.05C18.37 4.5 17.26 4 16 4c-2.35 0-4.27 1.92-4.27 4.29c0 .34.04.67.11.98C8.28 9.09 5.11 7.38 3 4.79c-.37.63-.58 1.37-.58 2.15c0 1.49.75 2.81 1.91 3.56c-.71 0-1.37-.2-1.95-.5v.03c0 2.08 1.48 3.82 3.44 4.21a4.22 4.22 0 0 1-1.93.07a4.28 4.28 0 0 0 4 2.98a8.521 8.521 0 0 1-5.33 1.84c-.34 0-.68-.02-1.02-.06C3.44 20.29 5.7 21 8.12 21C16 21 20.33 14.46 20.33 8.79c0-.19 0-.37-.01-.56c.84-.6 1.56-1.36 2.14-2.23z" fill="currentColor"></path></svg> Twitter</a></li><li><a href="https://almond.petros.xyz/php/php#" class="share share-linkedin" title="Share via LinkedIn"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:linkedin" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.79M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77z" fill="currentColor"></path></svg> LinkedIn</a></li><li><a href="https://almond.petros.xyz/php/php#" class="share share-facebook" title="Share via Facebook"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:facebook" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M12 2.04c-5.5 0-10 4.49-10 10.02c0 5 3.66 9.15 8.44 9.9v-7H7.9v-2.9h2.54V9.85c0-2.51 1.49-3.89 3.78-3.89c1.09 0 2.23.19 2.23.19v2.47h-1.26c-1.24 0-1.63.77-1.63 1.56v1.88h2.78l-.45 2.9h-2.33v7a10 10 0 0 0 8.44-9.9c0-5.53-4.5-10.02-10-10.02z" fill="currentColor"></path></svg> Facebook</a></li><li><a href="https://almond.petros.xyz/php/php#" class="share share-pinterest" title="Share via Pinterest"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:pinterest" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M9.04 21.54c.96.29 1.93.46 2.96.46a10 10 0 0 0 10-10A10 10 0 0 0 12 2A10 10 0 0 0 2 12c0 4.25 2.67 7.9 6.44 9.34c-.09-.78-.18-2.07 0-2.96l1.15-4.94s-.29-.58-.29-1.5c0-1.38.86-2.41 1.84-2.41c.86 0 1.26.63 1.26 1.44c0 .86-.57 2.09-.86 3.27c-.17.98.52 1.84 1.52 1.84c1.78 0 3.16-1.9 3.16-4.58c0-2.4-1.72-4.04-4.19-4.04c-2.82 0-4.48 2.1-4.48 4.31c0 .86.28 1.73.74 2.3c.09.06.09.14.06.29l-.29 1.09c0 .17-.11.23-.28.11c-1.28-.56-2.02-2.38-2.02-3.85c0-3.16 2.24-6.03 6.56-6.03c3.44 0 6.12 2.47 6.12 5.75c0 3.44-2.13 6.2-5.18 6.2c-.97 0-1.92-.52-2.26-1.13l-.67 2.37c-.23.86-.86 2.01-1.29 2.7v-.03z" fill="currentColor"></path></svg> Pinterest</a></li><li><a href="https://almond.petros.xyz/php/php#" class="share share-telegram" title="Share via Telegram"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:telegram" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M9.78 18.65l.28-4.23l7.68-6.92c.34-.31-.07-.46-.52-.19L7.74 13.3L3.64 12c-.88-.25-.89-.86.2-1.3l15.97-6.16c.73-.33 1.43.18 1.15 1.3l-2.72 12.81c-.19.91-.74 1.13-1.5.71L12.6 16.3l-1.99 1.93c-.23.23-.42.42-.83.42z" fill="currentColor"></path></svg> Telegram</a></li><li><a href="https://almond.petros.xyz/php/php#" class="share share-whatsapp" title="Share via WhatsApp"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:whatsapp" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M12.04 2c-5.46 0-9.91 4.45-9.91 9.91c0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38c1.45.79 3.08 1.21 4.74 1.21c5.46 0 9.91-4.45 9.91-9.91c0-2.65-1.03-5.14-2.9-7.01A9.816 9.816 0 0 0 12.04 2m.01 1.67c2.2 0 4.26.86 5.82 2.42a8.225 8.225 0 0 1 2.41 5.83c0 4.54-3.7 8.23-8.24 8.23c-1.48 0-2.93-.39-4.19-1.15l-.3-.17l-3.12.82l.83-3.04l-.2-.32a8.188 8.188 0 0 1-1.26-4.38c.01-4.54 3.7-8.24 8.25-8.24M8.53 7.33c-.16 0-.43.06-.66.31c-.22.25-.87.86-.87 2.07c0 1.22.89 2.39 1 2.56c.14.17 1.76 2.67 4.25 3.73c.59.27 1.05.42 1.41.53c.59.19 1.13.16 1.56.1c.48-.07 1.46-.6 1.67-1.18c.21-.58.21-1.07.15-1.18c-.07-.1-.23-.16-.48-.27c-.25-.14-1.47-.74-1.69-.82c-.23-.08-.37-.12-.56.12c-.16.25-.64.81-.78.97c-.15.17-.29.19-.53.07c-.26-.13-1.06-.39-2-1.23c-.74-.66-1.23-1.47-1.38-1.72c-.12-.24-.01-.39.11-.5c.11-.11.27-.29.37-.44c.13-.14.17-.25.25-.41c.08-.17.04-.31-.02-.43c-.06-.11-.56-1.35-.77-1.84c-.2-.48-.4-.42-.56-.43c-.14 0-.3-.01-.47-.01z" fill="currentColor"></path></svg> WhatsApp</a></li><li><a href="https://almond.petros.xyz/php/php#" class="share share-yammer" title="Share via Yammer"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:yammer" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M13.54 5.93L9.18 17.11c-.02.08-.92 2.54-3.95 2.54a1 1 0 0 1-1-1c0-.56.45-1 1-1c1.56 0 2.03-1.12 2.08-1.24l.37-1.01l-3.86-9.46c-.2-.51.04-1.1.55-1.3a1 1 0 0 1 1.31.55l3.07 7.53l2.93-7.52c.2-.52.78-.77 1.32-.57c.5.2.75.78.54 1.3m4.96.45c-.18 0-.37.07-.5.19c0 0-4.2 2.99-4 3.31c.19.32 4.83-1.85 4.84-1.88c.31-.1.54-.41.54-.77c0-.47-.38-.85-.88-.85m.77 10.46c-.1-.17-.27-.3-.44-.38c0 0-4.66-2.17-4.83-1.85c-.19.33 4 3.31 4 3.31c.25.22.63.26.94.08c.41-.23.56-.75.33-1.16m1.7-5.42c-.18-.1-.37-.13-.57-.1c0 0-5.11.53-5.1.9c.01.37 5.11.78 5.12.78c.34.05.69-.1.87-.42c.21-.41.09-.93-.32-1.16z" fill="currentColor"></path></svg> Yammer</a></li><li><a href="https://almond.petros.xyz/php/php#" class="share share-reddit" title="Share via Reddit"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:reddit" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M14.5 15.41c.08.09.08.28 0 .39c-.73.7-2.09.76-2.5.76c-.39 0-1.75-.06-2.46-.76c-.1-.11-.1-.3 0-.39c.11-.1.28-.1.38 0c.46.46 1.41.59 2.08.59c.69 0 1.66-.13 2.1-.59c.11-.1.28-.1.4 0m-3.75-2.37c0-.57-.47-1.04-1.04-1.04c-.57 0-1.04.47-1.04 1.04c0 .57.47 1.05 1.04 1.04c.57 0 1.04-.47 1.04-1.04M14.29 12c-.57 0-1.04.5-1.04 1.05s.47 1.04 1.04 1.04c.57 0 1.04-.48 1.04-1.04c0-.55-.47-1.05-1.04-1.05M22 12c0 5.5-4.5 10-10 10S2 17.5 2 12S6.5 2 12 2s10 4.5 10 10m-3.33 0c0-.81-.67-1.46-1.45-1.46c-.4 0-.76.16-1.02.41c-1-.72-2.37-1.18-3.9-1.24l.67-3.13l2.17.47c.02.55.48.99 1.04.99c.57 0 1.04-.47 1.04-1.04c0-.57-.47-1.04-1.04-1.04c-.41 0-.77.24-.93.59l-2.43-.52c-.07-.03-.14 0-.19.04c-.06.04-.09.1-.1.17l-.74 3.48c-1.55.05-2.95.51-3.97 1.24c-.26-.25-.62-.4-1.01-.4c-.81 0-1.46.65-1.46 1.44c0 .61.36 1.11.86 1.34c-.02.16-.03.28-.03.44c0 2.22 2.61 4.07 5.82 4.07c3.23 0 5.85-1.82 5.85-4.07c0-.14-.01-.28-.04-.44c.5-.23.86-.74.86-1.34z" fill="currentColor"></path></svg> Reddit</a></li></ul></li><li class="feed"><a href="https://almond.petros.xyz/feed.php?ns=php" title="Recent Changes" rel="nofollow" class="menuitem feed"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="mdi-rss" width="24" height="24" viewBox="0 0 24 24"><path d="M6.18,15.64C7.38,15.64 8.36,16.62 8.36,17.82C8.36,19 7.38,20 6.18,20C5,20 4,19 4,17.82C4,16.62 4.98,15.64 6.18,15.64M4,4.44C12.59,4.44 19.56,11.41 19.56,20H16.73C16.73,12.97 11.03,7.27 4,7.27V4.44M4,10.1C9.47,10.1 13.9,14.53 13.9,20H11.07C11.07,16.1 7.9,12.93 4,12.93V10.1Z"></path></svg><span>Recent Changes</span></a></li><li class="sendmail"><a href="https://almond.petros.xyz/php/php#" title="Send via e-Mail" rel="nofollow" class="menuitem sendmail"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="mdi-email-plus" width="24" height="24" viewBox="0 0 24 24"><path d="M3,4C1.89,4 1,4.89 1,6V18C1,19.1 1.9,20 3,20H14.09C14.03,19.67 14,19.34 14,19C14,15.69 16.69,13 20,13C20.34,13 20.67,13.03 21,13.09V6C21,4.89 20.1,4 19,4H3M3,6L11,11L19,6V8L11,13L3,8V6M19,15V18H16V20H19V23H21V20H24V18H21V15H19Z"></path></svg><span>Send via e-Mail</span></a></li><li class="printpage"><a href="https://almond.petros.xyz/php/php#" title="Print" rel="nofollow" class="menuitem printpage"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="mdi-printer" width="24" height="24" viewBox="0 0 24 24"><path d="M18,3H6V7H18M19,12C18.45,12 18,11.55 18,11C18,10.45 18.45,10 19,10C19.55,10 20,10.45 20,11C20,11.55 19.55,12 19,12M16,19H8V14H16M19,8H5C3.34,8 2,9.34 2,11V17H6V21H18V17H22V11C22,9.34 20.66,8 19,8Z"></path></svg><span>Print</span></a></li><li class="permalink"><a href="https://almond.petros.xyz/doku.php?id=php:php&amp;rev=1778067332" title="Permalink" rel="nofollow" class="menuitem permalink" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="mdi-link" width="24" height="24" viewBox="0 0 24 24"><path d="M3.9,12C3.9,10.29 5.29,8.9 7,8.9H11V7H7C4.24,7 2,9.24 2,12C2,14.76 4.24,17 7,17H11V15.1H7C5.29,15.1 3.9,13.71 3.9,12M8,13H16V11H8V13M17,7H13V8.9H17C18.71,8.9 20.1,10.29 20.1,12C20.1,13.71 18.71,15.1 17,15.1H13V17H17C19.76,17 22,14.76 22,12C22,9.24 19.76,7 17,7Z"></path></svg><span>Permalink</span></a></li>    </ul>
+</div>
+
+<span class="clearfix"></span>
+
+<!-- /page-icons -->
+
+<div class="help modal fade" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close btn btn-default" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                <h4 class="modal-title"></h4>
+            </div>
+            <div class="modal-body px-5"></div>
+        </div>
+    </div>
+</div>
+
+
+<div class="dw-content-page dw-toc-closed"><script>JSINFO.bootstrap3.toc = [{"link":"#useful-links","title":"Useful links","level":1},{"link":"#how-to","title":"How to","level":1},{"link":"#update","title":"Update","level":2},{"link":"#add-repo","title":"Add Repo","level":3},{"link":"#current-php-packages","title":"Current PHP packages","level":3},{"link":"#install-php","title":"Install PHP","level":3},{"link":"#web-server-configuration","title":"Web server configuration","level":3},{"link":"#remove-old-versions","title":"Remove old versions","level":3},{"link":"#actions","title":"Actions","level":2},{"link":"#restfull-api","title":"RESTFull API","level":1},{"link":"#section-1","title":"Section 1","level":2},{"link":"#getting-started-with-rest-and-php","title":"Getting Started with REST and PHP","level":3},{"link":"#section-2","title":"Section 2","level":2},{"link":"#the-basics-of-a-restful-request","title":"The Basics of a RESTful Request","level":3},{"link":"#rest-php-curl-to-the-rescue","title":"REST & PHP \u2013 Curl to the Rescue","level":3},{"link":"#making-requests-the-prep-work","title":"Making Requests \u2013 The Prep Work","level":3},{"link":"#get-requests","title":"GET Requests","level":3},{"link":"#post-requests","title":"POST Requests","level":3},{"link":"#delete-requests-in-php","title":"DELETE Requests in PHP","level":3},{"link":"#the-response","title":"The Response","level":3},{"link":"#wrapping-up","title":"Wrapping Up","level":3}];</script>
+<!-- TOC START -->
+<div class="dw-toc hidden-print">
+<nav id="dw__toc" role="navigation" class="toc-panel panel panel-default small affix" style="background-color: rgb(255, 255, 255);">
+<h6 data-toggle="collapse" data-target="#dw__toc .toc-body" title="Table of Contents" class="panel-heading toc-title"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:view-list" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M9 5v4h12V5M9 19h12v-4H9m0-1h12v-4H9M4 9h4V5H4m0 14h4v-4H4m0-1h4v-4H4v4z" fill="currentColor"></path></svg> <span>Table of Contents</span> <i class="caret"></i></h6>
+<div class="panel-body toc-body collapse" style="width: 240px; height: 0px;" aria-expanded="false">
+<ul class="nav toc" style="max-height: 680.5px; overflow-y: scroll;">
+<li class="level1"><a href="https://almond.petros.xyz/php/php#useful-links" style="color: rgb(44, 62, 80);">Useful links</a></li>
+<li class="level1"><a href="https://almond.petros.xyz/php/php#how-to" style="color: rgb(44, 62, 80);">How to</a>
+<ul class="nav toc">
+<li class="level2"><a href="https://almond.petros.xyz/php/php#update" style="color: rgb(44, 62, 80);">Update</a>
+<ul class="nav toc">
+<li class="level3"><a href="https://almond.petros.xyz/php/php#add-repo" style="color: rgb(44, 62, 80);">Add Repo</a></li>
+<li class="level3"><a href="https://almond.petros.xyz/php/php#current-php-packages" style="color: rgb(44, 62, 80);">Current PHP packages</a></li>
+<li class="level3"><a href="https://almond.petros.xyz/php/php#install-php" style="color: rgb(44, 62, 80);">Install PHP</a></li>
+<li class="level3"><a href="https://almond.petros.xyz/php/php#web-server-configuration" style="color: rgb(44, 62, 80);">Web server configuration</a></li>
+<li class="level3"><a href="https://almond.petros.xyz/php/php#remove-old-versions" style="color: rgb(44, 62, 80);">Remove old versions</a></li>
+</ul>
+</li>
+<li class="level2"><a href="https://almond.petros.xyz/php/php#actions" style="color: rgb(44, 62, 80);">Actions</a></li>
+</ul>
+</li>
+<li class="level1 active"><a href="https://almond.petros.xyz/php/php#restfull-api" style="color: rgb(44, 62, 80);">RESTFull API</a>
+<ul class="nav toc">
+<li class="level2"><a href="https://almond.petros.xyz/php/php#section-1" style="color: rgb(44, 62, 80);">Section 1</a>
+<ul class="nav toc">
+<li class="level3"><a href="https://almond.petros.xyz/php/php#getting-started-with-rest-and-php" style="color: rgb(44, 62, 80);">Getting Started with REST and PHP</a></li>
+</ul>
+</li>
+<li class="level2 active"><a href="https://almond.petros.xyz/php/php#section-2" style="color: rgb(44, 62, 80);">Section 2</a>
+<ul class="nav toc">
+<li class="level3"><a href="https://almond.petros.xyz/php/php#the-basics-of-a-restful-request" style="color: rgb(44, 62, 80);">The Basics of a RESTful Request</a></li>
+<li class="level3"><a href="https://almond.petros.xyz/php/php#rest-php-curl-to-the-rescue" style="color: rgb(44, 62, 80);">REST &amp; PHP – Curl to the Rescue</a></li>
+<li class="level3"><a href="https://almond.petros.xyz/php/php#making-requests-the-prep-work" style="color: rgb(44, 62, 80);">Making Requests – The Prep Work</a></li>
+<li class="level3"><a href="https://almond.petros.xyz/php/php#get-requests" style="color: rgb(44, 62, 80);">GET Requests</a></li>
+<li class="level3"><a href="https://almond.petros.xyz/php/php#post-requests" style="color: rgb(44, 62, 80);">POST Requests</a></li>
+<li class="level3 active"><a href="https://almond.petros.xyz/php/php#delete-requests-in-php" style="color: rgb(44, 62, 80);">DELETE Requests in PHP</a></li>
+<li class="level3"><a href="https://almond.petros.xyz/php/php#the-response" style="color: rgb(44, 62, 80);">The Response</a></li>
+<li class="level3"><a href="https://almond.petros.xyz/php/php#wrapping-up" style="color: rgb(44, 62, 80);">Wrapping Up</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+</nav>
+</div>
+<!-- TOC END -->
+<!-- content --><div class="dw-content"><p>
+<img src="./restfull-api_files/php.png" class="medialeft img-responsive" loading="lazy" title="PHP" alt="PHP">
+</p>
+
+<div class="section_highlight_wrapper"><h2 class="sectionedit1 page-header pb-3 mb-4 mt-5" id="useful-links">Useful links<a class="anchorjs-link " href="https://almond.petros.xyz/php/php#useful-links" aria-label="Anchor link for: useful links" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; line-height: 1; padding-left: 0.375em;"></a></h2><div class="level2">
+
+<p>
+PHP The Right Way <a href="https://phptherightway.com/" class="urlextern" target="_blank" title="https://phptherightway.com/" rel="ugc nofollow noopener">https://phptherightway.com/</a><br>
+
+PHP Operators <a href="https://www.w3schools.com/PHP/php_operators.asp" class="urlextern" target="_blank" title="https://www.w3schools.com/PHP/php_operators.asp" rel="ugc nofollow noopener">https://www.w3schools.com/PHP/php_operators.asp</a><br>
+
+Object-Oriented PHP for Beginners <a href="https://code.tutsplus.com/tutorials/object-oriented-php-for-beginners--net-12762" class="urlextern" target="_blank" title="https://code.tutsplus.com/tutorials/object-oriented-php-for-beginners--net-12762" rel="ugc nofollow noopener">https://code.tutsplus.com/tutorials/object-oriented-php-for-beginners--net-12762</a><br>
+
+Real-World OOP With PHP and MySQL <a href="https://code.tutsplus.com/tutorials/real-world-oop-with-php-and-mysql--net-1918" class="urlextern" target="_blank" title="https://code.tutsplus.com/tutorials/real-world-oop-with-php-and-mysql--net-1918" rel="ugc nofollow noopener">https://code.tutsplus.com/tutorials/real-world-oop-with-php-and-mysql--net-1918</a><br>
+
+Login Form with Sessions <a href="https://www.formget.com/login-form-in-php/" class="urlextern" target="_blank" title="https://www.formget.com/login-form-in-php/" rel="ugc nofollow noopener">https://www.formget.com/login-form-in-php/</a><br>
+
+Submission Button <a href="http://www.tizag.com/phpT/examples/formvar.php" class="urlextern" target="_blank" title="http://www.tizag.com/phpT/examples/formvar.php" rel="ugc nofollow noopener">http://www.tizag.com/phpT/examples/formvar.php</a><br>
+
+PHP: Show yes/no confirmation dialog <a href="https://stackoverflow.com/questions/1238347/php-show-yes-no-confirmation-dialog" class="urlextern" target="_blank" title="https://stackoverflow.com/questions/1238347/php-show-yes-no-confirmation-dialog" rel="ugc nofollow noopener">https://stackoverflow.com/questions/1238347/php-show-yes-no-confirmation-dialog</a><br>
+
+PHP Sessions <a href="http://www.tizag.com/phpT/phpsessions.php" class="urlextern" target="_blank" title="http://www.tizag.com/phpT/phpsessions.php" rel="ugc nofollow noopener">http://www.tizag.com/phpT/phpsessions.php</a><br>
+
+Dynamic populating the drop down list based on the selected value of first list <a href="https://www.plus2net.com/php_tutorial/php_drop_down_list.php" class="urlextern" target="_blank" title="https://www.plus2net.com/php_tutorial/php_drop_down_list.php" rel="ugc nofollow noopener">https://www.plus2net.com/php_tutorial/php_drop_down_list.php</a><br>
+
+Demo 3 of Three Multiple drop down list box from plus2net <a href="https://www.plus2net.com/php_tutorial/dd3.php?cat=4&amp;cat3=15" class="urlextern" target="_blank" title="https://www.plus2net.com/php_tutorial/dd3.php?cat=4&amp;cat3=15" rel="ugc nofollow noopener">https://www.plus2net.com/php_tutorial/dd3.php?cat=4&amp;cat3=15</a><br>
+
+sum value from mysql in php <a href="https://stackoverflow.com/questions/454836/sum-value-from-mysql-in-php" class="urlextern" target="_blank" title="https://stackoverflow.com/questions/454836/sum-value-from-mysql-in-php" rel="ugc nofollow noopener">https://stackoverflow.com/questions/454836/sum-value-from-mysql-in-php</a><br>
+
+select and echo a single field from mysql db using PHP <a href="https://stackoverflow.com/questions/1769337/select-and-echo-a-single-field-from-mysql-db-using-php" class="urlextern" target="_blank" title="https://stackoverflow.com/questions/1769337/select-and-echo-a-single-field-from-mysql-db-using-php" rel="ugc nofollow noopener">https://stackoverflow.com/questions/1769337/select-and-echo-a-single-field-from-mysql-db-using-php</a><br>
+
+write to text file with php <a href="http://www.wellho.net/forum/Learning-to-program/write-to-text-file-with-php.html" class="urlextern" target="_blank" title="http://www.wellho.net/forum/Learning-to-program/write-to-text-file-with-php.html" rel="ugc nofollow noopener">http://www.wellho.net/forum/Learning-to-program/write-to-text-file-with-php.html</a><br>
+
+mysql_insert_id — Get the ID generated in the last query <a href="https://www.php.net/manual/en/function.mysql-insert-id.php" class="urlextern" target="_blank" title="https://www.php.net/manual/en/function.mysql-insert-id.php" rel="ugc nofollow noopener">https://www.php.net/manual/en/function.mysql-insert-id.php</a><br>
+
+PHP MySQL Select <a href="http://www.w3schools.com/php/php_mysql_select.asp?output=print" class="urlextern" target="_blank" title="http://www.w3schools.com/php/php_mysql_select.asp?output=print" rel="ugc nofollow noopener">http://www.w3schools.com/php/php_mysql_select.asp?output=print</a><br>
+
+exec — Execute an external program <a href="https://www.php.net/manual/en/function.exec.php" class="urlextern" target="_blank" title="https://www.php.net/manual/en/function.exec.php" rel="ugc nofollow noopener">https://www.php.net/manual/en/function.exec.php</a><br>
+
+</p>
+
+</div><div class="secedit editbutton_section editbutton_1"><form class="button btn_secedit form-inline" method="post" action="https://almond.petros.xyz/php/php"><div class="no"><input type="hidden" name="do" value="edit"><input type="hidden" name="rev" value="1778067332"><input type="hidden" name="summary" value="[Useful links] "><input type="hidden" name="target" value="section"><input type="hidden" name="hid" value="useful-links"><input type="hidden" name="codeblockOffset" value="0"><input type="hidden" name="range" value="30-1987"><button type="submit" title="Useful links" class="btn btn-xs btn-default btn btn-default"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:pencil" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83l3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z" fill="currentColor"></path></svg> Edit</button></div></form></div></div>
+
+
+<div class="section_highlight_wrapper"><h2 class="sectionedit2 page-header pb-3 mb-4 mt-5" id="how-to">How to<a class="anchorjs-link " href="https://almond.petros.xyz/php/php#how-to" aria-label="Anchor link for: how to" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; line-height: 1; padding-left: 0.375em;"></a></h2><div class="level2">
+
+</div><div class="secedit editbutton_section editbutton_2"><form class="button btn_secedit form-inline" method="post" action="https://almond.petros.xyz/php/php"><div class="no"><input type="hidden" name="do" value="edit"><input type="hidden" name="rev" value="1778067332"><input type="hidden" name="summary" value="[How to] "><input type="hidden" name="target" value="section"><input type="hidden" name="hid" value="how-to"><input type="hidden" name="codeblockOffset" value="0"><input type="hidden" name="range" value="1988-2006"><button type="submit" title="How to" class="btn btn-xs btn-default btn btn-default"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:pencil" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83l3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z" fill="currentColor"></path></svg> Edit</button></div></form></div></div>
+
+
+<div class="section_highlight_wrapper"><h3 class="sectionedit3 page-header pb-3 mb-4 mt-5" id="update">Update<a class="anchorjs-link " href="https://almond.petros.xyz/php/php#update" aria-label="Anchor link for: update" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; line-height: 1; padding-left: 0.375em;"></a></h3><div class="level3">
+
+<p>
+Upgrade/Install different PHP version from system repositories - Ubuntu &amp; Debian
+</p>
+
+</div><h4 id="add-repo">Add Repo<a class="anchorjs-link " href="https://almond.petros.xyz/php/php#add-repo" aria-label="Anchor link for: add repo" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; line-height: 1; padding-left: 0.375em;"></a></h4><div class="level4">
+
+<p>
+<strong>Ubuntu</strong><br>
+
+</p>
+<pre class="code">sudo add-apt-repository ppa:ondrej/php
+sudo apt update</pre>
+
+<p>
+<strong>Debian</strong><br>
+
+</p>
+<pre class="code">sudo wget -O /etc/apt/trusted.gpg.d/php.gpg https://packages.sury.org/php/apt.gpg
+sudo sh -c 'echo "deb https://packages.sury.org/php/ $(lsb_release -sc) main" &gt; /etc/apt/sources.list.d/php.list'
+sudo apt update</pre>
+
+</div><h4 id="current-php-packages">Current PHP packages<a class="anchorjs-link " href="https://almond.petros.xyz/php/php#current-php-packages" aria-label="Anchor link for: current php packages" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; line-height: 1; padding-left: 0.375em;"></a></h4><div class="level4">
+<pre class="code">dpkg -l | grep php</pre>
+
+</div><h4 id="install-php">Install PHP<a class="anchorjs-link " href="https://almond.petros.xyz/php/php#install-php" aria-label="Anchor link for: install php" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; line-height: 1; padding-left: 0.375em;"></a></h4><div class="level4">
+
+<p>
+Use some useful packages<br>
+
+</p>
+<pre class="code">sudo apt-get install php7.x php7.x-bcmath php7.x-bz2 php7.x-cli php7.x-common php7.x-curl php7.x-gd php7.x-json php7.x-intl php7.x-mbstring php7.x-mysql php7.x-opcache php7.x-readline php7.x-soap php7.x-sqlite3 php7.x-xml php7.x-zip</pre>
+
+</div><h4 id="web-server-configuration">Web server configuration<a class="anchorjs-link " href="https://almond.petros.xyz/php/php#web-server-configuration" aria-label="Anchor link for: web server configuration" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; line-height: 1; padding-left: 0.375em;"></a></h4><div class="level4">
+
+<p>
+You can disable the current PHP integration with 
+</p>
+<pre class="code">a2dismod php7.0 (or your current version) </pre>
+
+<p>
+and enable new PHP 7.3 module with 
+</p>
+<pre class="code">a2enmod php7.3</pre>
+
+</div><h4 id="remove-old-versions">Remove old versions<a class="anchorjs-link " href="https://almond.petros.xyz/php/php#remove-old-versions" aria-label="Anchor link for: remove old versions" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; line-height: 1; padding-left: 0.375em;"></a></h4><div class="level4">
+<pre class="code">sudo apt purge php7.0*</pre>
+
+<p>
+Source : <a href="https://ayesh.me/Ubuntu-PHP-7.2" class="urlextern" target="_blank" title="https://ayesh.me/Ubuntu-PHP-7.2" rel="ugc nofollow noopener">https://ayesh.me/Ubuntu-PHP-7.2</a><br>
+
+</p>
+
+</div><div class="secedit editbutton_section editbutton_3"><form class="button btn_secedit form-inline" method="post" action="https://almond.petros.xyz/php/php"><div class="no"><input type="hidden" name="do" value="edit"><input type="hidden" name="rev" value="1778067332"><input type="hidden" name="summary" value="[Update] "><input type="hidden" name="target" value="section"><input type="hidden" name="hid" value="update"><input type="hidden" name="codeblockOffset" value="0"><input type="hidden" name="range" value="2007-3118"><button type="submit" title="Update" class="btn btn-xs btn-default btn btn-default"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:pencil" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83l3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z" fill="currentColor"></path></svg> Edit</button></div></form></div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="section_highlight_wrapper"><h3 class="sectionedit4 page-header pb-3 mb-4 mt-5" id="actions">Actions<a class="anchorjs-link " href="https://almond.petros.xyz/php/php#actions" aria-label="Anchor link for: actions" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; line-height: 1; padding-left: 0.375em;"></a></h3><div class="level3">
+<hr>
+
+<p>
+<strong>Show directory contents</strong>
+</p>
+<dl class="file">
+<dt><a href="https://almond.petros.xyz/_export/code/php/php?codeblock=7" title="Download Snippet" class="mediafile mf_php">index.php</a></dt>
+<dd><pre class="code file php"><span class="kw2">&lt;?php</span>
+<a target="_blank" href="http://www.php.net/error_reporting"><span class="kw3">error_reporting</span></a><span class="br0">(</span><span class="kw4">E_ALL</span><span class="br0">)</span><span class="sy0">;</span>
+<a target="_blank" href="http://www.php.net/ini_set"><span class="kw3">ini_set</span></a><span class="br0">(</span><span class="st_h">'display_errors'</span><span class="sy0">,</span> <span class="kw4">true</span><span class="br0">)</span><span class="sy0">;</span>
+<span class="re0">$d</span> <span class="sy0">=</span> <a target="_blank" href="http://www.php.net/dir"><span class="kw3">dir</span></a><span class="br0">(</span><a target="_blank" href="http://www.php.net/getcwd"><span class="kw3">getcwd</span></a><span class="br0">(</span><span class="br0">)</span><span class="br0">)</span><span class="sy0">;</span>
+<span class="re0">$blacklist</span> <span class="sy0">=</span> <a target="_blank" href="http://www.php.net/array"><span class="kw3">array</span></a><span class="br0">(</span><span class="st_h">'.'</span><span class="sy0">,</span> <span class="st_h">'..'</span><span class="sy0">,</span> <span class="st_h">'.directory'</span><span class="br0">)</span><span class="sy0">;</span>
+<span class="kw1">echo</span> <span class="st0">"Path: "</span> <span class="sy0">.</span> <span class="re0">$d</span><span class="sy0">-&gt;</span><span class="me1">path</span> <span class="sy0">.</span> <span class="st0">"<span class="es1">\n</span>"</span><span class="sy0">;</span>
+<span class="kw1">echo</span> <span class="st0">"&lt;ul&gt;"</span><span class="sy0">;</span>
+<span class="kw1">while</span> <span class="br0">(</span><span class="kw4">false</span> <span class="sy0">!==</span> <span class="br0">(</span><span class="re0">$entry</span> <span class="sy0">=</span> <span class="re0">$d</span><span class="sy0">-&gt;</span><span class="me1">read</span><span class="br0">(</span><span class="br0">)</span><span class="br0">)</span><span class="br0">)</span>
+<span class="br0">{</span>
+        <span class="kw1">if</span> <span class="br0">(</span><span class="sy0">!</span><a target="_blank" href="http://www.php.net/in_array"><span class="kw3">in_array</span></a><span class="br0">(</span><span class="re0">$entry</span><span class="sy0">,</span> <span class="re0">$blacklist</span><span class="br0">)</span><span class="br0">)</span>
+ <span class="br0">{</span>
+   <span class="kw1">echo</span> <span class="st0">"&lt;li&gt;&lt;a href='<span class="es4">{$entry}</span>'&gt;<span class="es4">{$entry}</span>&lt;/a&gt;&lt;/li&gt;"</span><span class="sy0">;</span>
+ <span class="br0">}</span>
+<span class="br0">}</span>
+<span class="kw1">echo</span> <span class="st0">"&lt;/ul&gt;"</span><span class="sy0">;</span>
+<span class="re0">$d</span><span class="sy0">-&gt;</span><span class="me1">close</span><span class="br0">(</span><span class="br0">)</span><span class="sy0">;</span>
+<span class="sy1">?&gt;</span></pre>
+</dd></dl>
+<hr>
+
+<p>
+<strong>php5-xdebug on linux</strong> The xDebug Configuration detailed above can be appended to:<br>
+
+</p>
+
+<p>
+/etc/php5/apache2/conf.d/xdebug.ini
+</p>
+
+<p>
+It should already contain the “zend_extension” variable and only needs the following variables added:
+</p>
+<pre class="code">xdebug.profiler_enable = On
+xdebug.remote_enable=On
+xdebug.remote_host="localhost"
+xdebug.remote_port=9000
+xdebug.remote_handler="dbgp"</pre>
+
+<p>
+Source: <a href="https://docs.joomla.org/Edit_PHP.INI_File_for_XDebug" class="urlextern" target="_blank" title="https://docs.joomla.org/Edit_PHP.INI_File_for_XDebug" rel="ugc nofollow noopener">https://docs.joomla.org/Edit_PHP.INI_File_for_XDebug</a><br>
+
+</p>
+<hr>
+
+<p>
+How do I increase the PHP upload limits?<br>
+
+Edit your php.ini file and set:<br>
+
+</p>
+<pre class="code">memory_limit = 512M
+upload_max_filesize = 128M
+post_max_size = 256M</pre>
+
+<p>
+Source: <a href="http://stackoverflow.com/questions/16102809/how-to-upload-large-files-above-500mb-in-php" class="urlextern" target="_blank" title="http://stackoverflow.com/questions/16102809/how-to-upload-large-files-above-500mb-in-php" rel="ugc nofollow noopener">http://stackoverflow.com/questions/16102809/how-to-upload-large-files-above-500mb-in-php</a><br>
+
+</p>
+<hr>
+
+<p>
+Redirect Old Domain to New Domain via .htaccess<br>
+
+</p>
+<pre class="code">&lt;IfModule mod_rewrite.c&gt;
+  RewriteEngine On
+  RewriteCond %{HTTP_HOST} ^olddomain.com$ [OR]
+  RewriteCond %{HTTP_HOST} ^www.olddomain.com$
+  RewriteRule (.*)$ http://www.newdomain.com/$1 [R=301,L]
+&lt;/IfModule&gt;</pre>
+
+<p>
+Source: <a href="https://wpscholar.com/blog/redirect-old-domain-to-new-domain-via-htaccess/" class="urlextern" target="_blank" title="https://wpscholar.com/blog/redirect-old-domain-to-new-domain-via-htaccess/" rel="ugc nofollow noopener">https://wpscholar.com/blog/redirect-old-domain-to-new-domain-via-htaccess/</a><br>
+
+</p>
+<hr>
+
+<p>
+<strong>MongoDB PHP library</strong>
+</p>
+<pre class="code">sudo pecl install mongodb
+sudo nano /etc/php/7.x/apache2/conf.d/30-mongodb.ini</pre>
+
+<p>
+or<br>
+
+</p>
+<pre class="code">sudo nano /etc/php/7.x/fpm/conf.d/30-mongodb.ini</pre>
+
+<p>
+Add the extension <code>extension=mongodb.so</code><br>
+
+Save and close and restart apache2 or php-fpm and nginx.<br>
+
+Sourses: <a href="https://github.com/mongodb/mongo-php-library" class="urlextern" target="_blank" title="https://github.com/mongodb/mongo-php-library" rel="ugc nofollow noopener">https://github.com/mongodb/mongo-php-library</a> <a href="http://php.net/manual/en/mongodb.installation.pecl.php" class="urlextern" target="_blank" title="http://php.net/manual/en/mongodb.installation.pecl.php" rel="ugc nofollow noopener">http://php.net/manual/en/mongodb.installation.pecl.php</a><br>
+
+</p>
+<hr>
+
+<p>
+<strong>Switch PHP version</strong>
+</p>
+<dl class="file">
+<dt><a href="https://almond.petros.xyz/_export/code/php/php?codeblock=13" title="Download Snippet" class="mediafile mf_sh">php8.sh</a></dt>
+<dd><pre class="code file sh">#!/bin/bash 
+&nbsp;
+# Usage:  ~/./php8.sh
+&nbsp;
+sudo a2dismod php7.4
+sudo a2enmod  php8.1
+&nbsp;
+sudo systemctl restart apache2
+&nbsp;
+sudo update-alternatives --set php /usr/bin/php8.1</pre>
+</dd></dl>
+<hr>
+
+<p>
+Show Directory Contents <a href="https://almond.petros.xyz/_media/php/directorycontents.zip" class="media mediafile mf_zip" title="php:directorycontents.zip (22.6 KB)">Download this file</a> <br>
+
+PHP Authorization with JWT (JSON Web Tokens) <a href="http://www.sitepoint.com/php-authorization-jwt-json-web-tokens/" class="urlextern" target="_blank" title="http://www.sitepoint.com/php-authorization-jwt-json-web-tokens/" rel="ugc nofollow noopener">http://www.sitepoint.com/php-authorization-jwt-json-web-tokens/</a><br>
+
+Sending Emails in PHP with PHPMailer <a href="http://www.sitepoint.com/sending-emails-php-phpmailer/" class="urlextern" target="_blank" title="http://www.sitepoint.com/sending-emails-php-phpmailer/" rel="ugc nofollow noopener">http://www.sitepoint.com/sending-emails-php-phpmailer/</a><br>
+
+Creating a simple REST <abbr title="" data-original-title="Application Programming Interface">API</abbr> in PHP <a href="https://www.leaseweb.com/labs/2015/10/creating-a-simple-rest-api-in-php/" class="urlextern" target="_blank" title="https://www.leaseweb.com/labs/2015/10/creating-a-simple-rest-api-in-php/" rel="ugc nofollow noopener">https://www.leaseweb.com/labs/2015/10/creating-a-simple-rest-api-in-php/</a><br>
+
+RestFul Web Services with PHP Mysqli <a href="https://trinitytuts.com/restful-web-services-with-php-mysqli/" class="urlextern" target="_blank" title="https://trinitytuts.com/restful-web-services-with-php-mysqli/" rel="ugc nofollow noopener">https://trinitytuts.com/restful-web-services-with-php-mysqli/</a><br>
+
+How to Insert JSON Data into MySQL using PHP <a href="http://www.kodingmadesimple.com/2014/12/how-to-insert-json-data-into-mysql-php.html" class="urlextern" target="_blank" title="http://www.kodingmadesimple.com/2014/12/how-to-insert-json-data-into-mysql-php.html" rel="ugc nofollow noopener">http://www.kodingmadesimple.com/2014/12/how-to-insert-json-data-into-mysql-php.html</a><br>
+
+How to Convert Data from MySQL to JSON using PHP <a href="http://www.kodingmadesimple.com/2015/01/convert-mysql-to-json-using-php.html" class="urlextern" target="_blank" title="http://www.kodingmadesimple.com/2015/01/convert-mysql-to-json-using-php.html" rel="ugc nofollow noopener">http://www.kodingmadesimple.com/2015/01/convert-mysql-to-json-using-php.html</a><br>
+
+Best XML Parser for PHP [duplicate] <a href="http://stackoverflow.com/questions/188414/best-xml-parser-for-php/" class="urlextern" target="_blank" title="http://stackoverflow.com/questions/188414/best-xml-parser-for-php/" rel="ugc nofollow noopener">http://stackoverflow.com/questions/188414/best-xml-parser-for-php/</a><br>
+
+How can I check a large PHP5 codebase for PHP7 incompatibilities <a href="https://www.reddit.com/r/PHP/comments/3veusf/how_can_i_check_a_large_php5_codebase_for_php7/" class="urlextern" target="_blank" title="https://www.reddit.com/r/PHP/comments/3veusf/how_can_i_check_a_large_php5_codebase_for_php7/" rel="ugc nofollow noopener">https://www.reddit.com/r/PHP/comments/3veusf/how_can_i_check_a_large_php5_codebase_for_php7/</a><br>
+
+How To Install PHP 8.1 on Ubuntu 22.04|20.04|18.04 <a href="https://computingforgeeks.com/how-to-install-php-on-ubuntu-linux-system/" class="urlextern" target="_blank" title="https://computingforgeeks.com/how-to-install-php-on-ubuntu-linux-system/" rel="ugc nofollow noopener">https://computingforgeeks.com/how-to-install-php-on-ubuntu-linux-system/</a><br>
+
+</p>
+
+</div><div class="secedit editbutton_section editbutton_4"><form class="button btn_secedit form-inline" method="post" action="https://almond.petros.xyz/php/php"><div class="no"><input type="hidden" name="do" value="edit"><input type="hidden" name="rev" value="1778067332"><input type="hidden" name="summary" value="[Actions] "><input type="hidden" name="target" value="section"><input type="hidden" name="hid" value="actions"><input type="hidden" name="codeblockOffset" value="7"><input type="hidden" name="range" value="3119-6394"><button type="submit" title="Actions" class="btn btn-xs btn-default btn btn-default"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:pencil" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83l3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z" fill="currentColor"></path></svg> Edit</button></div></form></div></div>
+
+
+<div class="section_highlight_wrapper"><h2 class="sectionedit5 page-header pb-3 mb-4 mt-5" id="restfull-api">RESTFull API<a class="anchorjs-link " href="https://almond.petros.xyz/php/php#restfull-api" aria-label="Anchor link for: restfull api" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; line-height: 1; padding-left: 0.375em;"></a></h2><div class="level2">
+
+<p>
+PHP JWT &amp; REST <abbr title="" data-original-title="Application Programming Interface">API</abbr> Authentication Tutorial: Login and Signup <a href="https://www.techiediaries.com/php-jwt-authentication-tutorial/" class="urlextern" target="_blank" title="https://www.techiediaries.com/php-jwt-authentication-tutorial/" rel="ugc nofollow noopener">https://www.techiediaries.com/php-jwt-authentication-tutorial/</a><br>
+
+</p>
+
+</div><div class="secedit editbutton_section editbutton_5"><form class="button btn_secedit form-inline" method="post" action="https://almond.petros.xyz/php/php"><div class="no"><input type="hidden" name="do" value="edit"><input type="hidden" name="rev" value="1778067332"><input type="hidden" name="summary" value="[RESTFull API] "><input type="hidden" name="target" value="section"><input type="hidden" name="hid" value="restfull-api"><input type="hidden" name="codeblockOffset" value="14"><input type="hidden" name="range" value="6395-6545"><button type="submit" title="RESTFull API" class="btn btn-xs btn-default btn btn-default"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:pencil" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83l3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z" fill="currentColor"></path></svg> Edit</button></div></form></div></div>
+
+
+<div class="section_highlight_wrapper"><h3 class="sectionedit6 page-header pb-3 mb-4 mt-5" id="section-1">Section 1<a class="anchorjs-link " href="https://almond.petros.xyz/php/php#section-1" aria-label="Anchor link for: section 1" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; line-height: 1; padding-left: 0.375em;"></a></h3><div class="level3">
+
+<p>
+One of the latest (sort of) crazes sweeping the net is APIs, more specifically those that leverage REST. It’s really no surprise either, as consuming REST APIs is so incredibly easy… in any language. It’s also incredibly easy to create them as you essentially use nothing more than an HTTP <abbr title="" data-original-title="specification">spec</abbr> that has existed for ages. One of the few things that I give Rails credit for is its well thought-out REST support, both for providing and consuming these APIs (as its been explained by all the Rails fanboys I work with).
+</p>
+
+<p>
+Seriously, if you’ve never used REST, but you’ve ever had to work with (or worse, create) a SOAP <abbr title="" data-original-title="Application Programming Interface">API</abbr>, or simply opened a WSDL and had your head explode, boy do I have good news for you!<br>
+
+So, What on Earth is REST? Why Should You Care?
+</p>
+
+<p>
+Before we get into writing some code, I want to make sure everyone’s got a good understanding of what REST is and how its great for APIs. First, technically speaking, REST isn’t specific to just APIs, it’s more of a generic concept. However, obviously, for the sake of this article we’ll be talking about it in the context of an <abbr title="" data-original-title="Application Programming Interface">API</abbr>. So, let’s look at the basic needs of an <abbr title="" data-original-title="Application Programming Interface">API</abbr> and how REST addresses them.
+</p>
+
+<p>
+<strong>Requests</strong><br>
+
+All APIs need to accept requests. Typically, with a RESTful <abbr title="" data-original-title="Application Programming Interface">API</abbr>, you’ll have a well-defined <abbr title="" data-original-title="Uniform Resource Locator">URL</abbr> scheme. Let’s say you want to provide an <abbr title="" data-original-title="Application Programming Interface">API</abbr> for users on your site (I know, I always use the “users” concept for my examples). Well, your <abbr title="" data-original-title="Uniform Resource Locator">URL</abbr> structure would probably be something like, “api/users” and “api/users/[id]” depending on the type of operation being requested against your <abbr title="" data-original-title="Application Programming Interface">API</abbr>. You also need to consider how you want to accept data. These days a lot of people are using JSON or XML, and I personally prefer JSON because it works well with JavaScript, and PHP has easy functionality for encoding and decoding it. If you wanted your <abbr title="" data-original-title="Application Programming Interface">API</abbr> to be really robust, you could accept both by sniffing out the content-type of the request (i.e. application/json or application/xml), but it’s perfectly acceptable to restrict things to one content type. Heck, you could even use simple key/value pairs if you wanted.
+</p>
+
+<p>
+The other piece of a request is what it’s actually meant to do, such as load, save, etc. Normally, you’d have to come up with some sort of architecture that defines what action the requester (consumer) desires, but REST simplifies that. By using HTTP request methods, or verbs, we don’t need to define anything. We can just use the GET, POST, PUT, and DELETE methods, and that covers every request we’d need. You can equate the verbs to your standard crud-style stuff: GET = load/retrieve, POST = create, PUT = update, DELETE = well, delete. It’s important to note that these verbs don’t directly translate to CRUD, but it is a good way to think about them. So, going back to the above <abbr title="" data-original-title="Uniform Resource Locator">URL</abbr> examples, let’s take a look at what some possible requests could mean:
+</p>
+<ul class=" fix-media-list-overlap">
+<li class="level1"><div class="li"> <strong>GET request to /api/users</strong> – List all users</div>
+</li>
+<li class="level1"><div class="li"> <strong>GET request to /api/users/1</strong> – List info for user with ID of 1</div>
+</li>
+<li class="level1"><div class="li"> <strong>POST request to /api/users</strong> – Create a new user</div>
+</li>
+<li class="level1"><div class="li"> <strong>PUT request to /api/users/1</strong> – Update user with ID of 1</div>
+</li>
+<li class="level1"><div class="li"> <strong>DELETE request to /api/users/1</strong> – Delete user with ID of 1</div>
+</li>
+</ul>
+
+<p>
+As you hopefully see, REST has already taken care of a lot of the major headaches of creating your own <abbr title="" data-original-title="Application Programming Interface">API</abbr> through some simple, well-understood standards and protocols, but there’s one other piece to a good API…
+</p>
+
+<p>
+<strong>Responses</strong><br>
+
+So, REST handles requests very easily, but it also makes generating responses easy. Similar to requests, there are two main components of a RESTful response: the response body, and a status code. The response body is pretty easy to deal with. Like requests, most responses in REST are usually either JSON or XML (perhaps just plain text in the case of POSTs, but we’ll cover that later). And, like requests, the consumer can specify the response type they’d like through another part of the HTTP request <abbr title="" data-original-title="specification">spec</abbr>, “Accept”. If a consumer wishes to receive an XML response, they’d just send an Accept header as a part of their request saying as much (”Accept: application/xml”). Admittedly, this method isn’t as widely adopted (tho it should be), so you have can also use the concept of an extension in the <abbr title="" data-original-title="Uniform Resource Locator">URL</abbr>. For example, /api/users.xml means the consumer wants XML as a response, similarly /api/users.json means JSON (same for things like /api/users/1.json/xml). Either way you choose (I say do both), you should pick a default response type as a lot of the time people wont’ even tell you what they want. Again, I’d say go with JSON. So, no Accept header or extension (i.e. /api/users) should not fail, it should just fail-over to the default response-type.
+</p>
+
+<p>
+But what about errors and other important status messages associated with requests? Easy, use HTTP status codes! This is far and above one of my favorite things about creating RESTful APIs. By using HTTP status codes, you don’t need to come up with a error / success scheme for your <abbr title="" data-original-title="Application Programming Interface">API</abbr>, it’s already done for you. For example, if a consumer POSTS to /api/users and you want to report back a successful creation, simply send a 201 status code (201 = Created). If it failed, send a 500 if it failed on your end (500 = Internal Server Error), or perhaps a 400 if they screwed up (400 = Bad request). Maybe they’re trying to POST against an <abbr title="" data-original-title="Application Programming Interface">API</abbr> endpoint that doesn’t accept posts… send a 501 (Not implemented). Perhaps your MySQL server is down, so your <abbr title="" data-original-title="Application Programming Interface">API</abbr> is temporarily borked… send a 503 (Service unavailable). Hopefully, you get the idea. If you’d like to read up a bit on status codes, check them out on wikipedia: List of HTTP Status Codes.
+</p>
+
+<p>
+I’m hoping you see all the advantages you get by leveraging the concepts of REST for your APIs. It really is super-cool, and its a shame its not more widely talked about in the PHP community (at least as far as I can tell). I think this is likely due to the lack of good documentation on how to deal with requests that aren’t GET or POST, namely PUT and DELETE. Admittedly, it is a bit goofy dealing with these, but it certainly isn’t hard. I’m also sure some of the popular frameworks out there probably have some sort of REST implementation, but I’m not a huge framework fan (for a lot of reasons that I won’t get into), and it’s also good to know these things even if somebody’s already created the solution for you.
+</p>
+
+<p>
+If you’re still not convinced that this is a useful <abbr title="" data-original-title="Application Programming Interface">API</abbr> paradigm, take a look at what REST has done for Ruby on Rails. One of its major claims to fame is how easy it is to create APIs (through some sort of RoR voodoo, I’m sure), and rightly so. Granted I know very little about RoR, but the fanboys around the office have preached this point to me many times. But, I digress… let’s write some code!
+</p>
+
+</div><h4 id="getting-started-with-rest-and-php">Getting Started with REST and PHP<a class="anchorjs-link " href="https://almond.petros.xyz/php/php#getting-started-with-rest-and-php" aria-label="Anchor link for: getting started with rest and php" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; line-height: 1; padding-left: 0.375em;"></a></h4><div class="level4">
+
+<p>
+One last disclaimer: the code we’re about to go over is in no way intended to be used as an example of a robust solution. My main goal here is to show how to deal with the individual components of REST in PHP, and leave creating the final solution up to you.
+</p>
+
+<p>
+So, let’s dig in! I think the best way to do something practical is to create a class that will provide all the utility functions we need to create a REST <abbr title="" data-original-title="Application Programming Interface">API</abbr>. We’ll also create a small class for storing our data. You could also then take this, extend it, and apply it to your own needs. So, let’s stub some stuff out:
+view plaincopy to clipboardprint?
+</p>
+<pre class="code php">    <span class="kw2">class</span> RestUtils  
+    <span class="br0">{</span>  
+        <span class="kw2">public</span> static <span class="kw2">function</span> processRequest<span class="br0">(</span><span class="br0">)</span>  
+        <span class="br0">{</span>  
+&nbsp;
+        <span class="br0">}</span>  
+&nbsp;
+        <span class="kw2">public</span> static <span class="kw2">function</span> sendResponse<span class="br0">(</span><span class="re0">$status</span> <span class="sy0">=</span> <span class="nu0">200</span><span class="sy0">,</span> <span class="re0">$body</span> <span class="sy0">=</span> <span class="st_h">''</span><span class="sy0">,</span> <span class="re0">$content_type</span> <span class="sy0">=</span> <span class="st_h">'text/html'</span><span class="br0">)</span>  
+        <span class="br0">{</span>  
+&nbsp;
+        <span class="br0">}</span>  
+&nbsp;
+        <span class="kw2">public</span> static <span class="kw2">function</span> getStatusCodeMessage<span class="br0">(</span><span class="re0">$status</span><span class="br0">)</span>  
+        <span class="br0">{</span>  
+            <span class="co1">// these could be stored in a .ini file and loaded  </span>
+            <span class="co1">// via parse_ini_file()... however, this will suffice  </span>
+            <span class="co1">// for an example  </span>
+            <span class="re0">$codes</span> <span class="sy0">=</span> <a target="_blank" href="http://www.php.net/array"><span class="kw3">Array</span></a><span class="br0">(</span>  
+                <span class="nu0">100</span> <span class="sy0">=&gt;</span> <span class="st_h">'Continue'</span><span class="sy0">,</span>  
+                <span class="nu0">101</span> <span class="sy0">=&gt;</span> <span class="st_h">'Switching Protocols'</span><span class="sy0">,</span>  
+                <span class="nu0">200</span> <span class="sy0">=&gt;</span> <span class="st_h">'OK'</span><span class="sy0">,</span>  
+                <span class="nu0">201</span> <span class="sy0">=&gt;</span> <span class="st_h">'Created'</span><span class="sy0">,</span>  
+                <span class="nu0">202</span> <span class="sy0">=&gt;</span> <span class="st_h">'Accepted'</span><span class="sy0">,</span>  
+                <span class="nu0">203</span> <span class="sy0">=&gt;</span> <span class="st_h">'Non-Authoritative Information'</span><span class="sy0">,</span>  
+                <span class="nu0">204</span> <span class="sy0">=&gt;</span> <span class="st_h">'No Content'</span><span class="sy0">,</span>  
+                <span class="nu0">205</span> <span class="sy0">=&gt;</span> <span class="st_h">'Reset Content'</span><span class="sy0">,</span>  
+                <span class="nu0">206</span> <span class="sy0">=&gt;</span> <span class="st_h">'Partial Content'</span><span class="sy0">,</span>  
+                <span class="nu0">300</span> <span class="sy0">=&gt;</span> <span class="st_h">'Multiple Choices'</span><span class="sy0">,</span>  
+                <span class="nu0">301</span> <span class="sy0">=&gt;</span> <span class="st_h">'Moved Permanently'</span><span class="sy0">,</span>  
+                <span class="nu0">302</span> <span class="sy0">=&gt;</span> <span class="st_h">'Found'</span><span class="sy0">,</span>  
+                <span class="nu0">303</span> <span class="sy0">=&gt;</span> <span class="st_h">'See Other'</span><span class="sy0">,</span>  
+                <span class="nu0">304</span> <span class="sy0">=&gt;</span> <span class="st_h">'Not Modified'</span><span class="sy0">,</span>  
+                <span class="nu0">305</span> <span class="sy0">=&gt;</span> <span class="st_h">'Use Proxy'</span><span class="sy0">,</span>  
+                <span class="nu0">306</span> <span class="sy0">=&gt;</span> <span class="st_h">'(Unused)'</span><span class="sy0">,</span>  
+                <span class="nu0">307</span> <span class="sy0">=&gt;</span> <span class="st_h">'Temporary Redirect'</span><span class="sy0">,</span>  
+                <span class="nu0">400</span> <span class="sy0">=&gt;</span> <span class="st_h">'Bad Request'</span><span class="sy0">,</span>  
+                <span class="nu0">401</span> <span class="sy0">=&gt;</span> <span class="st_h">'Unauthorized'</span><span class="sy0">,</span>  
+                <span class="nu0">402</span> <span class="sy0">=&gt;</span> <span class="st_h">'Payment Required'</span><span class="sy0">,</span>  
+                <span class="nu0">403</span> <span class="sy0">=&gt;</span> <span class="st_h">'Forbidden'</span><span class="sy0">,</span>  
+                <span class="nu0">404</span> <span class="sy0">=&gt;</span> <span class="st_h">'Not Found'</span><span class="sy0">,</span>  
+                <span class="nu0">405</span> <span class="sy0">=&gt;</span> <span class="st_h">'Method Not Allowed'</span><span class="sy0">,</span>  
+                <span class="nu0">406</span> <span class="sy0">=&gt;</span> <span class="st_h">'Not Acceptable'</span><span class="sy0">,</span>  
+                <span class="nu0">407</span> <span class="sy0">=&gt;</span> <span class="st_h">'Proxy Authentication Required'</span><span class="sy0">,</span>  
+                <span class="nu0">408</span> <span class="sy0">=&gt;</span> <span class="st_h">'Request Timeout'</span><span class="sy0">,</span>  
+                <span class="nu0">409</span> <span class="sy0">=&gt;</span> <span class="st_h">'Conflict'</span><span class="sy0">,</span>  
+                <span class="nu0">410</span> <span class="sy0">=&gt;</span> <span class="st_h">'Gone'</span><span class="sy0">,</span>  
+                <span class="nu0">411</span> <span class="sy0">=&gt;</span> <span class="st_h">'Length Required'</span><span class="sy0">,</span>  
+                <span class="nu0">412</span> <span class="sy0">=&gt;</span> <span class="st_h">'Precondition Failed'</span><span class="sy0">,</span>  
+                <span class="nu0">413</span> <span class="sy0">=&gt;</span> <span class="st_h">'Request Entity Too Large'</span><span class="sy0">,</span>  
+                <span class="nu0">414</span> <span class="sy0">=&gt;</span> <span class="st_h">'Request-URI Too Long'</span><span class="sy0">,</span>  
+                <span class="nu0">415</span> <span class="sy0">=&gt;</span> <span class="st_h">'Unsupported Media Type'</span><span class="sy0">,</span>  
+                <span class="nu0">416</span> <span class="sy0">=&gt;</span> <span class="st_h">'Requested Range Not Satisfiable'</span><span class="sy0">,</span>  
+                <span class="nu0">417</span> <span class="sy0">=&gt;</span> <span class="st_h">'Expectation Failed'</span><span class="sy0">,</span>  
+                <span class="nu0">500</span> <span class="sy0">=&gt;</span> <span class="st_h">'Internal Server Error'</span><span class="sy0">,</span>  
+                <span class="nu0">501</span> <span class="sy0">=&gt;</span> <span class="st_h">'Not Implemented'</span><span class="sy0">,</span>  
+                <span class="nu0">502</span> <span class="sy0">=&gt;</span> <span class="st_h">'Bad Gateway'</span><span class="sy0">,</span>  
+                <span class="nu0">503</span> <span class="sy0">=&gt;</span> <span class="st_h">'Service Unavailable'</span><span class="sy0">,</span>  
+                <span class="nu0">504</span> <span class="sy0">=&gt;</span> <span class="st_h">'Gateway Timeout'</span><span class="sy0">,</span>  
+                <span class="nu0">505</span> <span class="sy0">=&gt;</span> <span class="st_h">'HTTP Version Not Supported'</span>  
+            <span class="br0">)</span><span class="sy0">;</span>  
+&nbsp;
+            <span class="kw1">return</span> <span class="br0">(</span><a target="_blank" href="http://www.php.net/isset"><span class="kw3">isset</span></a><span class="br0">(</span><span class="re0">$codes</span><span class="br0">[</span><span class="re0">$status</span><span class="br0">]</span><span class="br0">)</span><span class="br0">)</span> ? <span class="re0">$codes</span><span class="br0">[</span><span class="re0">$status</span><span class="br0">]</span> <span class="sy0">:</span> <span class="st_h">''</span><span class="sy0">;</span>  
+        <span class="br0">}</span>  
+    <span class="br0">}</span>  
+&nbsp;
+    <span class="kw2">class</span> RestRequest  
+    <span class="br0">{</span>  
+        <span class="kw2">private</span> <span class="re0">$request_vars</span><span class="sy0">;</span>  
+        <span class="kw2">private</span> <span class="re0">$data</span><span class="sy0">;</span>  
+        <span class="kw2">private</span> <span class="re0">$http_accept</span><span class="sy0">;</span>  
+        <span class="kw2">private</span> <span class="re0">$method</span><span class="sy0">;</span>  
+&nbsp;
+        <span class="kw2">public</span> <span class="kw2">function</span> __construct<span class="br0">(</span><span class="br0">)</span>  
+        <span class="br0">{</span>  
+            <span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">request_vars</span>      <span class="sy0">=</span> <a target="_blank" href="http://www.php.net/array"><span class="kw3">array</span></a><span class="br0">(</span><span class="br0">)</span><span class="sy0">;</span>  
+            <span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">data</span>              <span class="sy0">=</span> <span class="st_h">''</span><span class="sy0">;</span>  
+            <span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">http_accept</span>       <span class="sy0">=</span> <span class="br0">(</span><a target="_blank" href="http://www.php.net/strpos"><span class="kw3">strpos</span></a><span class="br0">(</span><span class="re0">$_SERVER</span><span class="br0">[</span><span class="st_h">'HTTP_ACCEPT'</span><span class="br0">]</span><span class="sy0">,</span> <span class="st_h">'json'</span><span class="br0">)</span><span class="br0">)</span> ? <span class="st_h">'json'</span> <span class="sy0">:</span> <span class="st_h">'xml'</span><span class="sy0">;</span>  
+            <span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">method</span>            <span class="sy0">=</span> <span class="st_h">'get'</span><span class="sy0">;</span>  
+        <span class="br0">}</span>  
+&nbsp;
+        <span class="kw2">public</span> <span class="kw2">function</span> setData<span class="br0">(</span><span class="re0">$data</span><span class="br0">)</span>  
+        <span class="br0">{</span>  
+            <span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">data</span> <span class="sy0">=</span> <span class="re0">$data</span><span class="sy0">;</span>  
+        <span class="br0">}</span>  
+&nbsp;
+        <span class="kw2">public</span> <span class="kw2">function</span> setMethod<span class="br0">(</span><span class="re0">$method</span><span class="br0">)</span>  
+        <span class="br0">{</span>  
+            <span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">method</span> <span class="sy0">=</span> <span class="re0">$method</span><span class="sy0">;</span>  
+        <span class="br0">}</span>  
+&nbsp;
+        <span class="kw2">public</span> <span class="kw2">function</span> setRequestVars<span class="br0">(</span><span class="re0">$request_vars</span><span class="br0">)</span>  
+        <span class="br0">{</span>  
+            <span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">request_vars</span> <span class="sy0">=</span> <span class="re0">$request_vars</span><span class="sy0">;</span>  
+        <span class="br0">}</span>  
+&nbsp;
+        <span class="kw2">public</span> <span class="kw2">function</span> getData<span class="br0">(</span><span class="br0">)</span>  
+        <span class="br0">{</span>  
+            <span class="kw1">return</span> <span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">data</span><span class="sy0">;</span>  
+        <span class="br0">}</span>  
+&nbsp;
+        <span class="kw2">public</span> <span class="kw2">function</span> getMethod<span class="br0">(</span><span class="br0">)</span>  
+        <span class="br0">{</span>  
+            <span class="kw1">return</span> <span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">method</span><span class="sy0">;</span>  
+        <span class="br0">}</span>  
+&nbsp;
+        <span class="kw2">public</span> <span class="kw2">function</span> getHttpAccept<span class="br0">(</span><span class="br0">)</span>  
+        <span class="br0">{</span>  
+            <span class="kw1">return</span> <span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">http_accept</span><span class="sy0">;</span>  
+        <span class="br0">}</span>  
+&nbsp;
+        <span class="kw2">public</span> <span class="kw2">function</span> getRequestVars<span class="br0">(</span><span class="br0">)</span>  
+        <span class="br0">{</span>  
+            <span class="kw1">return</span> <span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">request_vars</span><span class="sy0">;</span>  
+        <span class="br0">}</span>  
+    <span class="br0">}</span>  </pre>
+
+<p>
+OK, so what we’ve got is a simple class for storing some information about our request (RestRequest), and a class with some static functions we can use to deal with requests and responses. As you can see, we really only have two functions to write… which is the beauty of this whole thing! Right, let’s move on…
+Processing the Request
+</p>
+
+<p>
+Processing the request is pretty straight-forward, but this is where we can run into a few catches (namely with PUT and DELETE… mostly PUT). We’ll go over those in a moment, but let’s examine the RestRequest class a bit. If you’ll look at the constructor, you’ll see that we’re already interpreting the HTTP_ACCEPT header, and defaulting to JSON if none is provided. With that out of the way, we need only deal with the incoming data.
+</p>
+
+<p>
+There are a few ways we could go about doing this, but let’s just assume that we’ll always get a key/value pair in our request: ‘data’ ⇒ actual data. Let’s also assume that the actual data will be JSON. As stated in my previous explanation of REST, you could look at the content-type of the request and deal with either JSON or XML, but let’s keep it simple for now. So, our process request function will end up looking something like this:
+view plaincopy to clipboardprint?
+</p>
+<pre class="code php">    <span class="kw2">public</span> static <span class="kw2">function</span> processRequest<span class="br0">(</span><span class="br0">)</span>  
+    <span class="br0">{</span>  
+        <span class="co1">// get our verb  </span>
+        <span class="re0">$request_method</span> <span class="sy0">=</span> <a target="_blank" href="http://www.php.net/strtolower"><span class="kw3">strtolower</span></a><span class="br0">(</span><span class="re0">$_SERVER</span><span class="br0">[</span><span class="st_h">'REQUEST_METHOD'</span><span class="br0">]</span><span class="br0">)</span><span class="sy0">;</span>  
+        <span class="re0">$return_obj</span>     <span class="sy0">=</span> <span class="kw2">new</span> RestRequest<span class="br0">(</span><span class="br0">)</span><span class="sy0">;</span>  
+        <span class="co1">// we'll store our data here  </span>
+        <span class="re0">$data</span>           <span class="sy0">=</span> <a target="_blank" href="http://www.php.net/array"><span class="kw3">array</span></a><span class="br0">(</span><span class="br0">)</span><span class="sy0">;</span>  
+&nbsp;
+        <span class="kw1">switch</span> <span class="br0">(</span><span class="re0">$request_method</span><span class="br0">)</span>  
+        <span class="br0">{</span>  
+            <span class="co1">// gets are easy...  </span>
+            <span class="kw1">case</span> <span class="st_h">'get'</span><span class="sy0">:</span>  
+                <span class="re0">$data</span> <span class="sy0">=</span> <span class="re0">$_GET</span><span class="sy0">;</span>  
+                <span class="kw1">break</span><span class="sy0">;</span>  
+            <span class="co1">// so are posts  </span>
+            <span class="kw1">case</span> <span class="st_h">'post'</span><span class="sy0">:</span>  
+                <span class="re0">$data</span> <span class="sy0">=</span> <span class="re0">$_POST</span><span class="sy0">;</span>  
+                <span class="kw1">break</span><span class="sy0">;</span>  
+            <span class="co1">// here's the tricky bit...  </span>
+            <span class="kw1">case</span> <span class="st_h">'put'</span><span class="sy0">:</span>  
+                <span class="co1">// basically, we read a string from PHP's special input location,  </span>
+                <span class="co1">// and then parse it out into an array via parse_str... per the PHP docs:  </span>
+                <span class="co1">// Parses str  as if it were the query string passed via a URL and sets  </span>
+                <span class="co1">// variables in the current scope.  </span>
+                <a target="_blank" href="http://www.php.net/parse_str"><span class="kw3">parse_str</span></a><span class="br0">(</span><a target="_blank" href="http://www.php.net/file_get_contents"><span class="kw3">file_get_contents</span></a><span class="br0">(</span><span class="st_h">'php://input'</span><span class="br0">)</span><span class="sy0">,</span> <span class="re0">$put_vars</span><span class="br0">)</span><span class="sy0">;</span>  
+                <span class="re0">$data</span> <span class="sy0">=</span> <span class="re0">$put_vars</span><span class="sy0">;</span>  
+                <span class="kw1">break</span><span class="sy0">;</span>  
+        <span class="br0">}</span>  
+&nbsp;
+        <span class="co1">// store the method  </span>
+        <span class="re0">$return_obj</span><span class="sy0">-&gt;</span><span class="me1">setMethod</span><span class="br0">(</span><span class="re0">$request_method</span><span class="br0">)</span><span class="sy0">;</span>  
+&nbsp;
+        <span class="co1">// set the raw data, so we can access it if needed (there may be  </span>
+        <span class="co1">// other pieces to your requests)  </span>
+        <span class="re0">$return_obj</span><span class="sy0">-&gt;</span><span class="me1">setRequestVars</span><span class="br0">(</span><span class="re0">$data</span><span class="br0">)</span><span class="sy0">;</span>  
+&nbsp;
+        <span class="kw1">if</span><span class="br0">(</span><a target="_blank" href="http://www.php.net/isset"><span class="kw3">isset</span></a><span class="br0">(</span><span class="re0">$data</span><span class="br0">[</span><span class="st_h">'data'</span><span class="br0">]</span><span class="br0">)</span><span class="br0">)</span>  
+        <span class="br0">{</span>  
+            <span class="co1">// translate the JSON to an Object for use however you want  </span>
+            <span class="re0">$return_obj</span><span class="sy0">-&gt;</span><span class="me1">setData</span><span class="br0">(</span><a target="_blank" href="http://www.php.net/json_decode"><span class="kw3">json_decode</span></a><span class="br0">(</span><span class="re0">$data</span><span class="br0">[</span><span class="st_h">'data'</span><span class="br0">]</span><span class="br0">)</span><span class="br0">)</span><span class="sy0">;</span>  
+        <span class="br0">}</span>  
+        <span class="kw1">return</span> <span class="re0">$return_obj</span><span class="sy0">;</span>  
+    <span class="br0">}</span>  </pre>
+
+<p>
+Like I said, pretty straight-forward. However, a few things to note… First, you typically don’t accept data for DELETE requests, so we don’t have a case for them in the switch. Second, you’ll notice that we store both the request variables, and the parsed JSON data. This is useful as you may have other stuff as a part of your request (say an <abbr title="" data-original-title="Application Programming Interface">API</abbr> key or something) that isn’t truly the data itself (like a new user’s name, email, etc.).
+</p>
+
+<p>
+So, how would we use this? Let’s go back to the user example. Assuming you’ve routed your request to the correct controller for users, we could have some code like this:
+view plaincopy to clipboardprint?
+</p>
+<pre class="code php">    <span class="re0">$data</span> <span class="sy0">=</span> RestUtils<span class="sy0">::</span><span class="me2">processRequest</span><span class="br0">(</span><span class="br0">)</span><span class="sy0">;</span>  
+&nbsp;
+    <span class="kw1">switch</span><span class="br0">(</span><span class="re0">$data</span><span class="sy0">-&gt;</span><span class="me1">getMethod</span><span class="br0">)</span>  
+    <span class="br0">{</span>  
+        <span class="kw1">case</span> <span class="st_h">'get'</span><span class="sy0">:</span>  
+            <span class="co1">// retrieve a list of users  </span>
+            <span class="kw1">break</span><span class="sy0">;</span>  
+        <span class="kw1">case</span> <span class="st_h">'post'</span><span class="sy0">:</span>  
+            <span class="re0">$user</span> <span class="sy0">=</span> <span class="kw2">new</span> User<span class="br0">(</span><span class="br0">)</span><span class="sy0">;</span>  
+            <span class="re0">$user</span><span class="sy0">-&gt;</span><span class="me1">setFirstName</span><span class="br0">(</span><span class="re0">$data</span><span class="sy0">-&gt;</span><span class="me1">getData</span><span class="br0">(</span><span class="br0">)</span><span class="sy0">-&gt;</span><span class="me1">first_name</span><span class="br0">)</span><span class="sy0">;</span>  <span class="co1">// just for example, this should be done cleaner  </span>
+            <span class="co1">// and so on...  </span>
+            <span class="re0">$user</span><span class="sy0">-&gt;</span><span class="me1">save</span><span class="br0">(</span><span class="br0">)</span><span class="sy0">;</span>  
+            <span class="kw1">break</span><span class="sy0">;</span>  
+        <span class="co1">// etc, etc, etc...  </span>
+    <span class="br0">}</span>  </pre>
+
+<p>
+Please don’t do this in a real app, this is just a quick-and-dirty example. You’d want to wrap this up in a nice control structure with everything abstracted properly, but this should help you get an idea of how to use this stuff. But I digress, let’s move on to sending a response.
+Sending the Response
+</p>
+
+<p>
+Now that we can interpret the request, let’s move on to sending the response. We already know that all we really need to do is send the correct status code, and maybe some body (if this were a GET request, for example), but there is an important catch to responses that have no body. Say somebody made a request against our sample user <abbr title="" data-original-title="Application Programming Interface">API</abbr> for a user that doesn’t exist (i.e. api/user/123). The appropriate status code to send is a 404 in this case, but simply sending the status code in the headers isn’t enough. If you viewed that page in your web browser, you would get a blank screen. This is because Apache (or whatever your web server runs on) isn’t sending the status code, so there’s no status page. We’ll need to take this into account when we build out our function. Keeping all that in mind, here’s what the code should look like:
+view plaincopy to clipboardprint?
+</p>
+<pre class="code php">    <span class="kw2">public</span> static <span class="kw2">function</span> sendResponse<span class="br0">(</span><span class="re0">$status</span> <span class="sy0">=</span> <span class="nu0">200</span><span class="sy0">,</span> <span class="re0">$body</span> <span class="sy0">=</span> <span class="st_h">''</span><span class="sy0">,</span> <span class="re0">$content_type</span> <span class="sy0">=</span> <span class="st_h">'text/html'</span><span class="br0">)</span>  
+    <span class="br0">{</span>  
+        <span class="re0">$status_header</span> <span class="sy0">=</span> <span class="st_h">'HTTP/1.1 '</span> <span class="sy0">.</span> <span class="re0">$status</span> <span class="sy0">.</span> <span class="st_h">' '</span> <span class="sy0">.</span> RestUtils<span class="sy0">::</span><span class="me2">getStatusCodeMessage</span><span class="br0">(</span><span class="re0">$status</span><span class="br0">)</span><span class="sy0">;</span>  
+        <span class="co1">// set the status  </span>
+        <a target="_blank" href="http://www.php.net/header"><span class="kw3">header</span></a><span class="br0">(</span><span class="re0">$status_header</span><span class="br0">)</span><span class="sy0">;</span>  
+        <span class="co1">// set the content type  </span>
+        <a target="_blank" href="http://www.php.net/header"><span class="kw3">header</span></a><span class="br0">(</span><span class="st_h">'Content-type: '</span> <span class="sy0">.</span> <span class="re0">$content_type</span><span class="br0">)</span><span class="sy0">;</span>  
+&nbsp;
+        <span class="co1">// pages with body are easy  </span>
+        <span class="kw1">if</span><span class="br0">(</span><span class="re0">$body</span> <span class="sy0">!=</span> <span class="st_h">''</span><span class="br0">)</span>  
+        <span class="br0">{</span>  
+            <span class="co1">// send the body  </span>
+            <span class="kw1">echo</span> <span class="re0">$body</span><span class="sy0">;</span>  
+            <a target="_blank" href="http://www.php.net/exit"><span class="kw3">exit</span></a><span class="sy0">;</span>  
+        <span class="br0">}</span>  
+        <span class="co1">// we need to create the body if none is passed  </span>
+        <span class="kw1">else</span>  
+        <span class="br0">{</span>  
+            <span class="co1">// create some body messages  </span>
+            <span class="re0">$message</span> <span class="sy0">=</span> <span class="st_h">''</span><span class="sy0">;</span>  
+&nbsp;
+            <span class="co1">// this is purely optional, but makes the pages a little nicer to read  </span>
+            <span class="co1">// for your users.  Since you won't likely send a lot of different status codes,  </span>
+            <span class="co1">// this also shouldn't be too ponderous to maintain  </span>
+            <span class="kw1">switch</span><span class="br0">(</span><span class="re0">$status</span><span class="br0">)</span>  
+            <span class="br0">{</span>  
+                <span class="kw1">case</span> <span class="nu0">401</span><span class="sy0">:</span>  
+                    <span class="re0">$message</span> <span class="sy0">=</span> <span class="st_h">'You must be authorized to view this page.'</span><span class="sy0">;</span>  
+                    <span class="kw1">break</span><span class="sy0">;</span>  
+                <span class="kw1">case</span> <span class="nu0">404</span><span class="sy0">:</span>  
+                    <span class="re0">$message</span> <span class="sy0">=</span> <span class="st_h">'The requested URL '</span> <span class="sy0">.</span> <span class="re0">$_SERVER</span><span class="br0">[</span><span class="st_h">'REQUEST_URI'</span><span class="br0">]</span> <span class="sy0">.</span> <span class="st_h">' was not found.'</span><span class="sy0">;</span>  
+                    <span class="kw1">break</span><span class="sy0">;</span>  
+                <span class="kw1">case</span> <span class="nu0">500</span><span class="sy0">:</span>  
+                    <span class="re0">$message</span> <span class="sy0">=</span> <span class="st_h">'The server encountered an error processing your request.'</span><span class="sy0">;</span>  
+                    <span class="kw1">break</span><span class="sy0">;</span>  
+                <span class="kw1">case</span> <span class="nu0">501</span><span class="sy0">:</span>  
+                    <span class="re0">$message</span> <span class="sy0">=</span> <span class="st_h">'The requested method is not implemented.'</span><span class="sy0">;</span>  
+                    <span class="kw1">break</span><span class="sy0">;</span>  
+            <span class="br0">}</span>  
+&nbsp;
+            <span class="co1">// servers don't always have a signature turned on (this is an apache directive "ServerSignature On")  </span>
+            <span class="re0">$signature</span> <span class="sy0">=</span> <span class="br0">(</span><span class="re0">$_SERVER</span><span class="br0">[</span><span class="st_h">'SERVER_SIGNATURE'</span><span class="br0">]</span> <span class="sy0">==</span> <span class="st_h">''</span><span class="br0">)</span> ? <span class="re0">$_SERVER</span><span class="br0">[</span><span class="st_h">'SERVER_SOFTWARE'</span><span class="br0">]</span> <span class="sy0">.</span> <span class="st_h">' Server at '</span> <span class="sy0">.</span> <span class="re0">$_SERVER</span><span class="br0">[</span><span class="st_h">'SERVER_NAME'</span><span class="br0">]</span> <span class="sy0">.</span> <span class="st_h">' Port '</span> <span class="sy0">.</span> <span class="re0">$_SERVER</span><span class="br0">[</span><span class="st_h">'SERVER_PORT'</span><span class="br0">]</span> <span class="sy0">:</span> <span class="re0">$_SERVER</span><span class="br0">[</span><span class="st_h">'SERVER_SIGNATURE'</span><span class="br0">]</span><span class="sy0">;</span>  
+&nbsp;
+            <span class="co1">// this should be templatized in a real-world solution  </span>
+            <span class="re0">$body</span> <span class="sy0">=</span> <span class="st_h">'&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;  
+                        &lt;html&gt;  
+                            &lt;head&gt;  
+                                &lt;meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"&gt;  
+                                &lt;title&gt;'</span> <span class="sy0">.</span> <span class="re0">$status</span> <span class="sy0">.</span> <span class="st_h">' '</span> <span class="sy0">.</span> RestUtils<span class="sy0">::</span><span class="me2">getStatusCodeMessage</span><span class="br0">(</span><span class="re0">$status</span><span class="br0">)</span> <span class="sy0">.</span> <span class="st_h">'&lt;/title&gt;  
+                            &lt;/head&gt;  
+                            &lt;body&gt;  
+                                &lt;h1&gt;'</span> <span class="sy0">.</span> RestUtils<span class="sy0">::</span><span class="me2">getStatusCodeMessage</span><span class="br0">(</span><span class="re0">$status</span><span class="br0">)</span> <span class="sy0">.</span> <span class="st_h">'&lt;/h1&gt;  
+                                &lt;p&gt;'</span> <span class="sy0">.</span> <span class="re0">$message</span> <span class="sy0">.</span> <span class="st_h">'&lt;/p&gt;  
+                                &lt;hr /&gt;  
+                                &lt;address&gt;'</span> <span class="sy0">.</span> <span class="re0">$signature</span> <span class="sy0">.</span> <span class="st_h">'&lt;/address&gt;  
+                            &lt;/body&gt;  
+                        &lt;/html&gt;'</span><span class="sy0">;</span>  
+&nbsp;
+            <span class="kw1">echo</span> <span class="re0">$body</span><span class="sy0">;</span>  
+            <a target="_blank" href="http://www.php.net/exit"><span class="kw3">exit</span></a><span class="sy0">;</span>  
+        <span class="br0">}</span>  
+    <span class="br0">}</span>  </pre>
+
+<p>
+That’s It! We technically have everything we need now to process requests and send responses. Let’s talk a bit more about why we need to have a standard body response or a custom one. For GET requests, this is pretty obvious, we need to send XML / JSON content instead of a status page (provided the request was valid). However, there’s also POSTs to deal with. Inside of your apps, when you create a new entity, you probably fetch the new entity’s ID via something like mysql_insert_id(). Well, if a user posts to your <abbr title="" data-original-title="Application Programming Interface">API</abbr>, they’ll probably want that new ID as well. What I’ll usually do in this case is simply send the new ID as the body (with a 201 status code), but you could also wrap that in XML or JSON if you’d like.
+</p>
+
+<p>
+So, let’s extend our sample implementation a bit:
+view plaincopy to clipboardprint?
+</p>
+<pre class="code php">    <span class="kw1">switch</span><span class="br0">(</span><span class="re0">$data</span><span class="sy0">-&gt;</span><span class="me1">getMethod</span><span class="br0">)</span>  
+    <span class="br0">{</span>  
+        <span class="co1">// this is a request for all users, not one in particular  </span>
+        <span class="kw1">case</span> <span class="st_h">'get'</span><span class="sy0">:</span>  
+            <span class="re0">$user_list</span> <span class="sy0">=</span> getUserList<span class="br0">(</span><span class="br0">)</span><span class="sy0">;</span> <span class="co1">// assume this returns an array  </span>
+&nbsp;
+            <span class="kw1">if</span><span class="br0">(</span><span class="re0">$data</span><span class="sy0">-&gt;</span><span class="me1">getHttpAccept</span> <span class="sy0">==</span> <span class="st_h">'json'</span><span class="br0">)</span>  
+            <span class="br0">{</span>  
+                RestUtils<span class="sy0">::</span><span class="me2">sendResponse</span><span class="br0">(</span><span class="nu0">200</span><span class="sy0">,</span> <a target="_blank" href="http://www.php.net/json_encode"><span class="kw3">json_encode</span></a><span class="br0">(</span><span class="re0">$user_list</span><span class="br0">)</span><span class="sy0">,</span> <span class="st_h">'application/json'</span><span class="br0">)</span><span class="sy0">;</span>  
+            <span class="br0">}</span>  
+            <span class="kw1">else</span> <span class="kw1">if</span> <span class="br0">(</span><span class="re0">$data</span><span class="sy0">-&gt;</span><span class="me1">getHttpAccept</span> <span class="sy0">==</span> <span class="st_h">'xml'</span><span class="br0">)</span>  
+            <span class="br0">{</span>  
+                <span class="co1">// using the XML_SERIALIZER Pear Package  </span>
+                <span class="re0">$options</span> <span class="sy0">=</span> <a target="_blank" href="http://www.php.net/array"><span class="kw3">array</span></a>  
+                <span class="br0">(</span>  
+                    <span class="st_h">'indent'</span> <span class="sy0">=&gt;</span> <span class="st_h">'     '</span><span class="sy0">,</span>  
+                    <span class="st_h">'addDecl'</span> <span class="sy0">=&gt;</span> <span class="kw4">false</span><span class="sy0">,</span>  
+                    <span class="st_h">'rootName'</span> <span class="sy0">=&gt;</span> <span class="re0">$fc</span><span class="sy0">-&gt;</span><span class="me1">getAction</span><span class="br0">(</span><span class="br0">)</span><span class="sy0">,</span>  
+                    XML_SERIALIZER_OPTION_RETURN_RESULT <span class="sy0">=&gt;</span> <span class="kw4">true</span>  
+                <span class="br0">)</span><span class="sy0">;</span>  
+                <span class="re0">$serializer</span> <span class="sy0">=</span> <span class="kw2">new</span> XML_Serializer<span class="br0">(</span><span class="re0">$options</span><span class="br0">)</span><span class="sy0">;</span>  
+&nbsp;
+                RestUtils<span class="sy0">::</span><span class="me2">sendResponse</span><span class="br0">(</span><span class="nu0">200</span><span class="sy0">,</span> <span class="re0">$serializer</span><span class="sy0">-&gt;</span><a target="_blank" href="http://www.php.net/serialize"><span class="kw3">serialize</span></a><span class="br0">(</span><span class="re0">$user_list</span><span class="br0">)</span><span class="sy0">,</span> <span class="st_h">'application/xml'</span><span class="br0">)</span><span class="sy0">;</span>  
+            <span class="br0">}</span>  
+&nbsp;
+            <span class="kw1">break</span><span class="sy0">;</span>  
+        <span class="co1">// new user create  </span>
+        <span class="kw1">case</span> <span class="st_h">'post'</span><span class="sy0">:</span>  
+            <span class="re0">$user</span> <span class="sy0">=</span> <span class="kw2">new</span> User<span class="br0">(</span><span class="br0">)</span><span class="sy0">;</span>  
+            <span class="re0">$user</span><span class="sy0">-&gt;</span><span class="me1">setFirstName</span><span class="br0">(</span><span class="re0">$data</span><span class="sy0">-&gt;</span><span class="me1">getData</span><span class="br0">(</span><span class="br0">)</span><span class="sy0">-&gt;</span><span class="me1">first_name</span><span class="br0">)</span><span class="sy0">;</span>  <span class="co1">// just for example, this should be done cleaner  </span>
+            <span class="co1">// and so on...  </span>
+            <span class="re0">$user</span><span class="sy0">-&gt;</span><span class="me1">save</span><span class="br0">(</span><span class="br0">)</span><span class="sy0">;</span>  
+&nbsp;
+            <span class="co1">// just send the new ID as the body  </span>
+            RestUtils<span class="sy0">::</span><span class="me2">sendResponse</span><span class="br0">(</span><span class="nu0">201</span><span class="sy0">,</span> <span class="re0">$user</span><span class="sy0">-&gt;</span><span class="me1">getId</span><span class="br0">(</span><span class="br0">)</span><span class="br0">)</span><span class="sy0">;</span>  
+            <span class="kw1">break</span><span class="sy0">;</span>  
+    <span class="br0">}</span>  </pre>
+
+<p>
+Again, this is just an example, but it does show off (I think, at least) how little effort it takes to implement RESTful stuff.
+Wrapping Up
+</p>
+
+<p>
+So, that’s about it. I’m pretty confident that I’ve beaten the point that this should be quite easy into the ground, so I’d like to close with how you can take this stuff further and perhaps properly implement it.
+</p>
+
+<p>
+In a real-world MVC application, what you would probably want to do is set up a controller for your <abbr title="" data-original-title="Application Programming Interface">API</abbr> that loads individual <abbr title="" data-original-title="Application Programming Interface">API</abbr> controllers. For example, using the above stuff, we’d possibly create a UserRestController which had four methods: get(), put(), post(), and delete(). The <abbr title="" data-original-title="Application Programming Interface">API</abbr> controller would look at the request and determine which method to invoke on that controller. That method would then use the utils to process the request, do what it needs to do data-wise, then use the utils to send a response.
+</p>
+
+<p>
+You could also take it a step further than that, and abstract out your <abbr title="" data-original-title="Application Programming Interface">API</abbr> controller and data models a bit more. Rather than explicitly creating a controller for every data model in your app, you could add some logic into your <abbr title="" data-original-title="Application Programming Interface">API</abbr> controller to first look for an explicitly defined controller, and if none is found, try to look for an existing model. For example, the url “api/user/1″, would first trigger a lookup for a “user” rest controller. If none is found, it could then look for a model called “user” in your app. If one is found, you could write up a bit of automated voodoo to automatically process all the requests against those models.
+</p>
+
+<p>
+Going even further, you could then make a generic “list-all” method that works similar to the previous paragraph’s example. Say your url was “api/users”. The <abbr title="" data-original-title="Application Programming Interface">API</abbr> controller could first check for a “users” rest controller, and if none was found, recognize that users is pluaralized, depluralize it, and then look for a “user” model. If one’s found, load a list the list of users and send that off.
+</p>
+
+<p>
+Finally, you could add digest authentication to your <abbr title="" data-original-title="Application Programming Interface">API</abbr> quite easily as well. Say you only wanted properly authenticated users to access your <abbr title="" data-original-title="Application Programming Interface">API</abbr>, well, you could throw some code like this into your process request functionality (borrowed from an existing app of mine, so there’s some constants and variables referenced that aren’t defined in this snippet):
+view plaincopy to clipboardprint?
+</p>
+<pre class="code php">    <span class="co1">// figure out if we need to challenge the user  </span>
+    <span class="kw1">if</span><span class="br0">(</span>emptyempty<span class="br0">(</span><span class="re0">$_SERVER</span><span class="br0">[</span><span class="st_h">'PHP_AUTH_DIGEST'</span><span class="br0">]</span><span class="br0">)</span><span class="br0">)</span>  
+    <span class="br0">{</span>  
+        <a target="_blank" href="http://www.php.net/header"><span class="kw3">header</span></a><span class="br0">(</span><span class="st_h">'HTTP/1.1 401 Unauthorized'</span><span class="br0">)</span><span class="sy0">;</span>  
+        <a target="_blank" href="http://www.php.net/header"><span class="kw3">header</span></a><span class="br0">(</span><span class="st_h">'WWW-Authenticate: Digest realm="'</span> <span class="sy0">.</span> AUTH_REALM <span class="sy0">.</span> <span class="st_h">'",qop="auth",nonce="'</span> <span class="sy0">.</span> <a target="_blank" href="http://www.php.net/uniqid"><span class="kw3">uniqid</span></a><span class="br0">(</span><span class="br0">)</span> <span class="sy0">.</span> <span class="st_h">'",opaque="'</span> <span class="sy0">.</span> <a target="_blank" href="http://www.php.net/md5"><span class="kw3">md5</span></a><span class="br0">(</span>AUTH_REALM<span class="br0">)</span> <span class="sy0">.</span> <span class="st_h">'"'</span><span class="br0">)</span><span class="sy0">;</span>  
+&nbsp;
+        <span class="co1">// show the error if they hit cancel  </span>
+        <a target="_blank" href="http://www.php.net/die"><span class="kw3">die</span></a><span class="br0">(</span>RestControllerLib<span class="sy0">::</span><span class="me2">error</span><span class="br0">(</span><span class="nu0">401</span><span class="sy0">,</span> <span class="kw4">true</span><span class="br0">)</span><span class="br0">)</span><span class="sy0">;</span>  
+    <span class="br0">}</span>  
+&nbsp;
+    <span class="co1">// now, analayze the PHP_AUTH_DIGEST var  </span>
+    <span class="kw1">if</span><span class="br0">(</span><span class="sy0">!</span><span class="br0">(</span><span class="re0">$data</span> <span class="sy0">=</span> http_digest_parse<span class="br0">(</span><span class="re0">$_SERVER</span><span class="br0">[</span><span class="st_h">'PHP_AUTH_DIGEST'</span><span class="br0">]</span><span class="br0">)</span><span class="br0">)</span> <span class="sy0">||</span> <span class="re0">$auth_username</span> <span class="sy0">!=</span> <span class="re0">$data</span><span class="br0">[</span><span class="st_h">'username'</span><span class="br0">]</span><span class="br0">)</span>  
+    <span class="br0">{</span>  
+        <span class="co1">// show the error due to bad auth  </span>
+        <a target="_blank" href="http://www.php.net/die"><span class="kw3">die</span></a><span class="br0">(</span>RestUtils<span class="sy0">::</span><span class="me2">sendResponse</span><span class="br0">(</span><span class="nu0">401</span><span class="br0">)</span><span class="br0">)</span><span class="sy0">;</span>  
+    <span class="br0">}</span>  
+&nbsp;
+    <span class="co1">// so far, everything's good, let's now check the response a bit more...  </span>
+    <span class="re0">$A1</span> <span class="sy0">=</span> <a target="_blank" href="http://www.php.net/md5"><span class="kw3">md5</span></a><span class="br0">(</span><span class="re0">$data</span><span class="br0">[</span><span class="st_h">'username'</span><span class="br0">]</span> <span class="sy0">.</span> <span class="st_h">':'</span> <span class="sy0">.</span> AUTH_REALM <span class="sy0">.</span> <span class="st_h">':'</span> <span class="sy0">.</span> <span class="re0">$auth_pass</span><span class="br0">)</span><span class="sy0">;</span>  
+    <span class="re0">$A2</span> <span class="sy0">=</span> <a target="_blank" href="http://www.php.net/md5"><span class="kw3">md5</span></a><span class="br0">(</span><span class="re0">$_SERVER</span><span class="br0">[</span><span class="st_h">'REQUEST_METHOD'</span><span class="br0">]</span> <span class="sy0">.</span> <span class="st_h">':'</span> <span class="sy0">.</span> <span class="re0">$data</span><span class="br0">[</span><span class="st_h">'uri'</span><span class="br0">]</span><span class="br0">)</span><span class="sy0">;</span>  
+    <span class="re0">$valid_response</span> <span class="sy0">=</span> <a target="_blank" href="http://www.php.net/md5"><span class="kw3">md5</span></a><span class="br0">(</span><span class="re0">$A1</span> <span class="sy0">.</span> <span class="st_h">':'</span> <span class="sy0">.</span> <span class="re0">$data</span><span class="br0">[</span><span class="st_h">'nonce'</span><span class="br0">]</span> <span class="sy0">.</span> <span class="st_h">':'</span> <span class="sy0">.</span> <span class="re0">$data</span><span class="br0">[</span><span class="st_h">'nc'</span><span class="br0">]</span> <span class="sy0">.</span> <span class="st_h">':'</span> <span class="sy0">.</span> <span class="re0">$data</span><span class="br0">[</span><span class="st_h">'cnonce'</span><span class="br0">]</span> <span class="sy0">.</span> <span class="st_h">':'</span> <span class="sy0">.</span> <span class="re0">$data</span><span class="br0">[</span><span class="st_h">'qop'</span><span class="br0">]</span> <span class="sy0">.</span> <span class="st_h">':'</span> <span class="sy0">.</span> <span class="re0">$A2</span><span class="br0">)</span><span class="sy0">;</span>  
+&nbsp;
+    <span class="co1">// last check..  </span>
+    <span class="kw1">if</span><span class="br0">(</span><span class="re0">$data</span><span class="br0">[</span><span class="st_h">'response'</span><span class="br0">]</span> <span class="sy0">!=</span> <span class="re0">$valid_response</span><span class="br0">)</span>  
+    <span class="br0">{</span>  
+        <a target="_blank" href="http://www.php.net/die"><span class="kw3">die</span></a><span class="br0">(</span>RestUtils<span class="sy0">::</span><span class="me2">sendResponse</span><span class="br0">(</span><span class="nu0">401</span><span class="br0">)</span><span class="br0">)</span><span class="sy0">;</span>  
+    <span class="br0">}</span>  </pre>
+
+<p>
+Pretty cool stuff, huh? With a little bit of code and some clever logic, you can add a fully functional REST <abbr title="" data-original-title="Application Programming Interface">API</abbr> to your apps very quickly. I’m not just saying that to cheerlead the concept either, I implemented this stuff into one of my personal frameworks in about half a day, and then spent another half day adding all sorts of cool magic to it. If you (the reader) are interested in seeing my final implementation, drop me a note in the comments and I’d be happy to share it with you! Also, if you’ve got any cool ideas you’d like to share, be sure to drop those in the comments as well… if I like it enough, I’d even let you guest author your own article on the subject!
+</p>
+
+<p>
+Source : <a href="https://web.archive.org/web/20130910164802/http://www.gen-x-design.com/archives/create-a-rest-api-with-php/" class="urlextern" target="_blank" title="https://web.archive.org/web/20130910164802/http://www.gen-x-design.com/archives/create-a-rest-api-with-php/" rel="ugc nofollow noopener">https://web.archive.org/web/20130910164802/http://www.gen-x-design.com/archives/create-a-rest-api-with-php/</a><br>
+
+</p>
+
+</div><div class="secedit editbutton_section editbutton_6"><form class="button btn_secedit form-inline" method="post" action="https://almond.petros.xyz/php/php"><div class="no"><input type="hidden" name="do" value="edit"><input type="hidden" name="rev" value="1778067332"><input type="hidden" name="summary" value="[Section 1] "><input type="hidden" name="target" value="section"><input type="hidden" name="hid" value="section-1"><input type="hidden" name="codeblockOffset" value="14"><input type="hidden" name="range" value="6546-32546"><button type="submit" title="Section 1" class="btn btn-xs btn-default btn btn-default"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:pencil" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83l3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z" fill="currentColor"></path></svg> Edit</button></div></form></div></div>
+
+
+
+
+
+<div class="section_highlight_wrapper"><h3 class="sectionedit7 page-header pb-3 mb-4 mt-5" id="section-2">Section 2<a class="anchorjs-link " href="https://almond.petros.xyz/php/php#section-2" aria-label="Anchor link for: section 2" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; line-height: 1; padding-left: 0.375em;"></a></h3><div class="level3">
+
+<p>
+APIs have become a very commonplace part of many popular web sites and services… especially REST APIs. I’ve already discussed how you can roll your own REST <abbr title="" data-original-title="Application Programming Interface">API</abbr> for your PHP apps, but I’ve also received countless requests to go over how to actually make RESTful requests. That’s exactly what we’ll take a look at in this article. Before we dive in, however, I want to make sure you’ve got a basic understanding of how REST APIs work, so if you’re a bit shaky or unfamiliar with the concept, head on over to my previous article on REST and read up (you don’t need to go over the implementation stuff if you don’t want, just read the first part of the article). Seriously, do it… this article is written with the assumption you’re familiar with the concepts of REST.
+</p>
+
+<p>
+Anyway, without any further delay, let’s take a look at what we’re going to cover…
+</p>
+
+</div><h4 id="the-basics-of-a-restful-request">The Basics of a RESTful Request<a class="anchorjs-link " href="https://almond.petros.xyz/php/php#the-basics-of-a-restful-request" aria-label="Anchor link for: the basics of a restful request" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; line-height: 1; padding-left: 0.375em;"></a></h4><div class="level4">
+
+<p>
+Every REST request consists of essentially the same basic parts:
+</p>
+<ul class=" fix-media-list-overlap">
+<li class="level1"><div class="li"> <strong>The <abbr title="" data-original-title="Uniform Resource Locator">URL</abbr></strong> – This is the <abbr title="" data-original-title="Uniform Resource Locator">URL</abbr> we’ll be making a request against (often referred to as a resource).</div>
+</li>
+<li class="level1"><div class="li"> <strong>The Verb</strong> – GET, POST, PUT, or DELETE… there are some others out there, but these are the 4 most common ones.</div>
+</li>
+<li class="level1"><div class="li"> <strong>The Params</strong> – The parameters we’ll be supplying to the <abbr title="" data-original-title="Application Programming Interface">API</abbr>, often referred to as the request body.</div>
+</li>
+<li class="level1"><div class="li"> <strong>Credentials</strong> – Username and password… we’ll cover HTTP Digest auth credentials.</div>
+</li>
+</ul>
+
+<p>
+And, of course, we’ll have a few pieces for our response as well:
+</p>
+<ul class=" fix-media-list-overlap">
+<li class="level1"><div class="li"> <strong>The Response Body</strong> – The actual response body the <abbr title="" data-original-title="Application Programming Interface">API</abbr> gave us.</div>
+</li>
+<li class="level1"><div class="li"> <strong>The Response Status Code</strong> – The HTTP status code the <abbr title="" data-original-title="Application Programming Interface">API</abbr> responded with.</div>
+</li>
+<li class="level1"><div class="li"> <strong>Other Response Info</strong> – We’ll also have some other interesting info in the response.</div>
+</li>
+</ul>
+
+<p>
+Nothing really unexpected here, everything’s probably looking like what you’d expect: a request and a response.
+</p>
+
+<p>
+So, on to the answer to the most important question: “How the heck do you actually make the request?!?!?”
+</p>
+
+</div><h4 id="rest-php-curl-to-the-rescue">REST &amp; PHP – Curl to the Rescue<a class="anchorjs-link " href="https://almond.petros.xyz/php/php#rest-php-curl-to-the-rescue" aria-label="Anchor link for: rest php curl to the rescue" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; line-height: 1; padding-left: 0.375em;"></a></h4><div class="level4">
+
+<p>
+You may have already guessed we’d be using curl (or suspected it perhaps)… and if you didn’t, well, that’s what we’ll be using :) Anyway, if you’ve ever worked with Curl in PHP, you’re probably aware that making GET and POST requests are pretty straight-forward, but the PUT and DELETE requests are a little less obvious. Luckily, they’re pretty easy once you know how to do them, the problem is that they’re very poorly documented. We’ll go over them soon, but let’s get started with a little code. We’re going to be building a class that we can use to make requests and deal with their responses, so why don’t we build up a bit of a base class, and then start filling things in:
+</p>
+<pre class="code php"><span class="kw2">class</span> RestRequest
+<span class="br0">{</span>
+	<span class="kw2">protected</span> <span class="re0">$url</span><span class="sy0">;</span>
+	<span class="kw2">protected</span> <span class="re0">$verb</span><span class="sy0">;</span>
+	<span class="kw2">protected</span> <span class="re0">$requestBody</span><span class="sy0">;</span>
+	<span class="kw2">protected</span> <span class="re0">$requestLength</span><span class="sy0">;</span>
+	<span class="kw2">protected</span> <span class="re0">$username</span><span class="sy0">;</span>
+	<span class="kw2">protected</span> <span class="re0">$password</span><span class="sy0">;</span>
+	<span class="kw2">protected</span> <span class="re0">$acceptType</span><span class="sy0">;</span>
+	<span class="kw2">protected</span> <span class="re0">$responseBody</span><span class="sy0">;</span>
+	<span class="kw2">protected</span> <span class="re0">$responseInfo</span><span class="sy0">;</span>
+&nbsp;
+	<span class="kw2">public</span> <span class="kw2">function</span> __construct <span class="br0">(</span><span class="re0">$url</span> <span class="sy0">=</span> <span class="kw4">null</span><span class="sy0">,</span> <span class="re0">$verb</span> <span class="sy0">=</span> <span class="st_h">'GET'</span><span class="sy0">,</span> <span class="re0">$requestBody</span> <span class="sy0">=</span> <span class="kw4">null</span><span class="br0">)</span>
+	<span class="br0">{</span>
+		<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">url</span>				<span class="sy0">=</span> <span class="re0">$url</span><span class="sy0">;</span>
+		<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">verb</span>				<span class="sy0">=</span> <span class="re0">$verb</span><span class="sy0">;</span>
+		<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">requestBody</span>		<span class="sy0">=</span> <span class="re0">$requestBody</span><span class="sy0">;</span>
+		<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">requestLength</span>		<span class="sy0">=</span> <span class="nu0">0</span><span class="sy0">;</span>
+		<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">username</span>			<span class="sy0">=</span> <span class="kw4">null</span><span class="sy0">;</span>
+		<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">password</span>			<span class="sy0">=</span> <span class="kw4">null</span><span class="sy0">;</span>
+		<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">acceptType</span>		<span class="sy0">=</span> <span class="st_h">'application/json'</span><span class="sy0">;</span>
+		<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">responseBody</span>		<span class="sy0">=</span> <span class="kw4">null</span><span class="sy0">;</span>
+		<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">responseInfo</span>		<span class="sy0">=</span> <span class="kw4">null</span><span class="sy0">;</span>
+&nbsp;
+		<span class="kw1">if</span> <span class="br0">(</span><span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">requestBody</span> <span class="sy0">!==</span> <span class="kw4">null</span><span class="br0">)</span>
+		<span class="br0">{</span>
+			<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">buildPostBody</span><span class="br0">(</span><span class="br0">)</span><span class="sy0">;</span>
+		<span class="br0">}</span>
+	<span class="br0">}</span>
+&nbsp;
+	<span class="kw2">public</span> <span class="kw2">function</span> <a target="_blank" href="http://www.php.net/flush"><span class="kw3">flush</span></a> <span class="br0">(</span><span class="br0">)</span>
+	<span class="br0">{</span>
+		<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">requestBody</span>		<span class="sy0">=</span> <span class="kw4">null</span><span class="sy0">;</span>
+		<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">requestLength</span>		<span class="sy0">=</span> <span class="nu0">0</span><span class="sy0">;</span>
+		<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">verb</span>				<span class="sy0">=</span> <span class="st_h">'GET'</span><span class="sy0">;</span>
+		<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">responseBody</span>		<span class="sy0">=</span> <span class="kw4">null</span><span class="sy0">;</span>
+		<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">responseInfo</span>		<span class="sy0">=</span> <span class="kw4">null</span><span class="sy0">;</span>
+	<span class="br0">}</span>
+&nbsp;
+	<span class="kw2">public</span> <span class="kw2">function</span> execute <span class="br0">(</span><span class="br0">)</span>
+	<span class="br0">{</span>
+&nbsp;
+	<span class="br0">}</span>
+&nbsp;
+	<span class="kw2">public</span> <span class="kw2">function</span> buildPostBody <span class="br0">(</span><span class="re0">$data</span> <span class="sy0">=</span> <span class="kw4">null</span><span class="br0">)</span>
+	<span class="br0">{</span>
+&nbsp;
+	<span class="br0">}</span>
+&nbsp;
+	<span class="kw2">protected</span> <span class="kw2">function</span> executeGet <span class="br0">(</span><span class="re0">$ch</span><span class="br0">)</span>
+	<span class="br0">{</span>		
+&nbsp;
+	<span class="br0">}</span>
+&nbsp;
+	<span class="kw2">protected</span> <span class="kw2">function</span> executePost <span class="br0">(</span><span class="re0">$ch</span><span class="br0">)</span>
+	<span class="br0">{</span>
+&nbsp;
+	<span class="br0">}</span>
+&nbsp;
+	<span class="kw2">protected</span> <span class="kw2">function</span> executePut <span class="br0">(</span><span class="re0">$ch</span><span class="br0">)</span>
+	<span class="br0">{</span>
+&nbsp;
+	<span class="br0">}</span>
+&nbsp;
+	<span class="kw2">protected</span> <span class="kw2">function</span> executeDelete <span class="br0">(</span><span class="re0">$ch</span><span class="br0">)</span>
+	<span class="br0">{</span>
+&nbsp;
+	<span class="br0">}</span>
+&nbsp;
+	<span class="kw2">protected</span> <span class="kw2">function</span> doExecute <span class="br0">(</span><span class="sy0">&amp;</span><span class="re0">$curlHandle</span><span class="br0">)</span>
+	<span class="br0">{</span>
+&nbsp;
+	<span class="br0">}</span>
+&nbsp;
+	<span class="kw2">protected</span> <span class="kw2">function</span> setCurlOpts <span class="br0">(</span><span class="sy0">&amp;</span><span class="re0">$curlHandle</span><span class="br0">)</span>
+	<span class="br0">{</span>
+&nbsp;
+	<span class="br0">}</span>
+&nbsp;
+	<span class="kw2">protected</span> <span class="kw2">function</span> setAuth <span class="br0">(</span><span class="sy0">&amp;</span><span class="re0">$curlHandle</span><span class="br0">)</span>
+	<span class="br0">{</span>
+&nbsp;
+	<span class="br0">}</span>
+<span class="br0">}</span></pre>
+
+<p>
+So, what we’ve got here is essentially all of the functions we’ll need to make this whole thing work right. We’ll cover each of the function individually, but let’s take a look at the class members:
+</p>
+<ul class=" fix-media-list-overlap">
+<li class="level1"><div class="li"> $url – The <abbr title="" data-original-title="Uniform Resource Locator">URL</abbr> we’ll be requesting against</div>
+</li>
+<li class="level1"><div class="li"> $verb – The type of request we’ll be making (what verb to use)</div>
+</li>
+<li class="level1"><div class="li"> $requestBody – The request body we’ll send with PUT and POST requests</div>
+</li>
+<li class="level1"><div class="li"> $requestLength – An internally used variable for PUT requests (more on this later)</div>
+</li>
+<li class="level1"><div class="li"> $username – The username to use for this request</div>
+</li>
+<li class="level1"><div class="li"> $password – I’ll let you guess ;)</div>
+</li>
+<li class="level1"><div class="li"> $acceptType – What kind of content we’ll accept as a response (not all APIs use this to determine the response format, but we’ll be robust)</div>
+</li>
+<li class="level1"><div class="li"> $responseBody – The body of our response</div>
+</li>
+<li class="level1"><div class="li"> $responseInfo – All the other goodness from our response (status code, etc.)</div>
+</li>
+</ul>
+
+<p>
+Not too rough, right? And if you take a look at the constructor, you’ll see things are pretty straight-forward as well. We’ve also got a flush function. This allows us to use the same object to make multiple requests by only clearing out certain member variables (notice username / password aren’t touched). You may have also noticed we’re missing getters / setters… this is simply to keep the code a little shorter. The final class will have them.
+</p>
+
+</div><h4 id="making-requests-the-prep-work">Making Requests – The Prep Work<a class="anchorjs-link " href="https://almond.petros.xyz/php/php#making-requests-the-prep-work" aria-label="Anchor link for: making requests the prep work" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; line-height: 1; padding-left: 0.375em;"></a></h4><div class="level4">
+
+<p>
+Let’s go ahead and fill in some of the functions that do prep work for us, and then we’ll dig into making the requests. Anyway, let’s take a look at these “init” functions..
+</p>
+
+<p>
+<strong>buildPostBody</strong>
+This function will take an array and prepare it for being posted (or put as well):
+</p>
+<pre class="code php">	<span class="kw2">public</span> <span class="kw2">function</span> buildPostBody <span class="br0">(</span><span class="re0">$data</span> <span class="sy0">=</span> <span class="kw4">null</span><span class="br0">)</span>
+	<span class="br0">{</span>
+		<span class="re0">$data</span> <span class="sy0">=</span> <span class="br0">(</span><span class="re0">$data</span> <span class="sy0">!==</span> <span class="kw4">null</span><span class="br0">)</span> ? <span class="re0">$data</span> <span class="sy0">:</span> <span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">requestBody</span><span class="sy0">;</span>
+&nbsp;
+		<span class="kw1">if</span> <span class="br0">(</span><span class="sy0">!</span><a target="_blank" href="http://www.php.net/is_array"><span class="kw3">is_array</span></a><span class="br0">(</span><span class="re0">$data</span><span class="br0">)</span><span class="br0">)</span>
+		<span class="br0">{</span>
+			<span class="kw1">throw</span> <span class="kw2">new</span> InvalidArgumentException<span class="br0">(</span><span class="st_h">'Invalid data input for postBody.  Array expected'</span><span class="br0">)</span><span class="sy0">;</span>
+		<span class="br0">}</span>
+&nbsp;
+		<span class="re0">$data</span> <span class="sy0">=</span> <a target="_blank" href="http://www.php.net/http_build_query"><span class="kw3">http_build_query</span></a><span class="br0">(</span><span class="re0">$data</span><span class="sy0">,</span> <span class="st_h">''</span><span class="sy0">,</span> <span class="st_h">'&amp;'</span><span class="br0">)</span><span class="sy0">;</span>
+		<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">requestBody</span> <span class="sy0">=</span> <span class="re0">$data</span><span class="sy0">;</span>
+	<span class="br0">}</span></pre>
+
+<p>
+Notice how we will throw exceptions if we receive anything other than an array? This is important, as we don’t want our data to be malformed (or an error to be thrown by http_build_query). Also, you may be thinking that I’m using an exception type that isn’t defined anywhere… well, it is (if you’re using PHP 5). I won’t go off on a tangent, but check out the PHP SPL for more info. All you need to know is that the InvalidArgumentException is already defined for you :)
+</p>
+
+<p>
+<strong>setCurlOpts</strong>
+This function will take care of all the curl options common to all our requests:
+</p>
+<pre class="code php">	<span class="kw2">protected</span> <span class="kw2">function</span> setCurlOpts <span class="br0">(</span><span class="sy0">&amp;</span><span class="re0">$curlHandle</span><span class="br0">)</span>
+	<span class="br0">{</span>
+		<a target="_blank" href="http://www.php.net/curl_setopt"><span class="kw3">curl_setopt</span></a><span class="br0">(</span><span class="re0">$curlHandle</span><span class="sy0">,</span> CURLOPT_TIMEOUT<span class="sy0">,</span> <span class="nu0">10</span><span class="br0">)</span><span class="sy0">;</span>
+		<a target="_blank" href="http://www.php.net/curl_setopt"><span class="kw3">curl_setopt</span></a><span class="br0">(</span><span class="re0">$curlHandle</span><span class="sy0">,</span> CURLOPT_URL<span class="sy0">,</span> <span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">url</span><span class="br0">)</span><span class="sy0">;</span>
+		<a target="_blank" href="http://www.php.net/curl_setopt"><span class="kw3">curl_setopt</span></a><span class="br0">(</span><span class="re0">$curlHandle</span><span class="sy0">,</span> CURLOPT_RETURNTRANSFER<span class="sy0">,</span> <span class="kw4">true</span><span class="br0">)</span><span class="sy0">;</span>
+		<a target="_blank" href="http://www.php.net/curl_setopt"><span class="kw3">curl_setopt</span></a><span class="br0">(</span><span class="re0">$curlHandle</span><span class="sy0">,</span> CURLOPT_HTTPHEADER<span class="sy0">,</span> <a target="_blank" href="http://www.php.net/array"><span class="kw3">array</span></a> <span class="br0">(</span><span class="st_h">'Accept: '</span> <span class="sy0">.</span> <span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">acceptType</span><span class="br0">)</span><span class="br0">)</span><span class="sy0">;</span>
+	<span class="br0">}</span></pre>
+
+<p>
+<strong>setAuth</strong>
+If we’ve got a username and password set on the class, we’ll set up the auth options on the curl request with this function:
+</p>
+<pre class="code php">	<span class="kw2">protected</span> <span class="kw2">function</span> setAuth <span class="br0">(</span><span class="sy0">&amp;</span><span class="re0">$curlHandle</span><span class="br0">)</span>
+	<span class="br0">{</span>
+		<span class="kw1">if</span> <span class="br0">(</span><span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">username</span> <span class="sy0">!==</span> <span class="kw4">null</span> <span class="sy0">&amp;&amp;</span> <span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">password</span> <span class="sy0">!==</span> <span class="kw4">null</span><span class="br0">)</span>
+		<span class="br0">{</span>
+			<a target="_blank" href="http://www.php.net/curl_setopt"><span class="kw3">curl_setopt</span></a><span class="br0">(</span><span class="re0">$curlHandle</span><span class="sy0">,</span> CURLOPT_HTTPAUTH<span class="sy0">,</span> CURLAUTH_DIGEST<span class="br0">)</span><span class="sy0">;</span>
+			<a target="_blank" href="http://www.php.net/curl_setopt"><span class="kw3">curl_setopt</span></a><span class="br0">(</span><span class="re0">$curlHandle</span><span class="sy0">,</span> CURLOPT_USERPWD<span class="sy0">,</span> <span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">username</span> <span class="sy0">.</span> <span class="st_h">':'</span> <span class="sy0">.</span> <span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">password</span><span class="br0">)</span><span class="sy0">;</span>
+		<span class="br0">}</span>
+	<span class="br0">}</span>
+<span class="sy0">&lt;</span>code<span class="sy0">&gt;</span>
+I mentioned earlier that we’re only going to cover HTTP Digest authentication in this <span class="kw2">class</span><span class="sy0">,</span> but you could adapt this <span class="kw2">function</span> to suit your needs however you wanted depending on what the API<span class="br0">(</span>s<span class="br0">)</span> you’re consuming <span class="kw1">require</span><span class="sy0">.</span>
+<span class="sy0">===</span> Making the REST Requests <span class="sy0">===</span>
+&nbsp;
+We’re about ready to cover how to make the individual verb requests<span class="sy0">,</span> but we need to <span class="kw1">do</span> just a little bit more work filling in the common functionality<span class="sy0">.</span> We’ll go ahead and create our doExecute and execute functions now<span class="sy0">:</span>
+<span class="sy0">&lt;</span>code php<span class="sy0">&gt;</span>
+	<span class="kw2">public</span> <span class="kw2">function</span> execute <span class="br0">(</span><span class="br0">)</span>
+	<span class="br0">{</span>
+		<span class="re0">$ch</span> <span class="sy0">=</span> <a target="_blank" href="http://www.php.net/curl_init"><span class="kw3">curl_init</span></a><span class="br0">(</span><span class="br0">)</span><span class="sy0">;</span>
+		<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">setAuth</span><span class="br0">(</span><span class="re0">$ch</span><span class="br0">)</span><span class="sy0">;</span>
+&nbsp;
+		try
+		<span class="br0">{</span>
+			<span class="kw1">switch</span> <span class="br0">(</span><a target="_blank" href="http://www.php.net/strtoupper"><span class="kw3">strtoupper</span></a><span class="br0">(</span><span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">verb</span><span class="br0">)</span><span class="br0">)</span>
+			<span class="br0">{</span>
+				<span class="kw1">case</span> <span class="st_h">'GET'</span><span class="sy0">:</span>
+					<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">executeGet</span><span class="br0">(</span><span class="re0">$ch</span><span class="br0">)</span><span class="sy0">;</span>
+					<span class="kw1">break</span><span class="sy0">;</span>
+				<span class="kw1">case</span> <span class="st_h">'POST'</span><span class="sy0">:</span>
+					<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">executePost</span><span class="br0">(</span><span class="re0">$ch</span><span class="br0">)</span><span class="sy0">;</span>
+					<span class="kw1">break</span><span class="sy0">;</span>
+				<span class="kw1">case</span> <span class="st_h">'PUT'</span><span class="sy0">:</span>
+					<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">executePut</span><span class="br0">(</span><span class="re0">$ch</span><span class="br0">)</span><span class="sy0">;</span>
+					<span class="kw1">break</span><span class="sy0">;</span>
+				<span class="kw1">case</span> <span class="st_h">'DELETE'</span><span class="sy0">:</span>
+					<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">executeDelete</span><span class="br0">(</span><span class="re0">$ch</span><span class="br0">)</span><span class="sy0">;</span>
+					<span class="kw1">break</span><span class="sy0">;</span>
+				<span class="kw1">default</span><span class="sy0">:</span>
+					<span class="kw1">throw</span> <span class="kw2">new</span> InvalidArgumentException<span class="br0">(</span><span class="st_h">'Current verb ('</span> <span class="sy0">.</span> <span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">verb</span> <span class="sy0">.</span> <span class="st_h">') is an invalid REST verb.'</span><span class="br0">)</span><span class="sy0">;</span>
+			<span class="br0">}</span>
+		<span class="br0">}</span>
+		catch <span class="br0">(</span>InvalidArgumentException <span class="re0">$e</span><span class="br0">)</span>
+		<span class="br0">{</span>
+			<a target="_blank" href="http://www.php.net/curl_close"><span class="kw3">curl_close</span></a><span class="br0">(</span><span class="re0">$ch</span><span class="br0">)</span><span class="sy0">;</span>
+			<span class="kw1">throw</span> <span class="re0">$e</span><span class="sy0">;</span>
+		<span class="br0">}</span>
+		catch <span class="br0">(</span>Exception <span class="re0">$e</span><span class="br0">)</span>
+		<span class="br0">{</span>
+			<a target="_blank" href="http://www.php.net/curl_close"><span class="kw3">curl_close</span></a><span class="br0">(</span><span class="re0">$ch</span><span class="br0">)</span><span class="sy0">;</span>
+			<span class="kw1">throw</span> <span class="re0">$e</span><span class="sy0">;</span>
+		<span class="br0">}</span>
+&nbsp;
+	<span class="br0">}</span>
+&nbsp;
+	<span class="kw2">protected</span> <span class="kw2">function</span> doExecute <span class="br0">(</span><span class="sy0">&amp;</span><span class="re0">$curlHandle</span><span class="br0">)</span>
+	<span class="br0">{</span>
+		<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">setCurlOpts</span><span class="br0">(</span><span class="re0">$curlHandle</span><span class="br0">)</span><span class="sy0">;</span>
+		<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">responseBody</span> <span class="sy0">=</span> <a target="_blank" href="http://www.php.net/curl_exec"><span class="kw3">curl_exec</span></a><span class="br0">(</span><span class="re0">$curlHandle</span><span class="br0">)</span><span class="sy0">;</span>
+		<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">responseInfo</span>	<span class="sy0">=</span> <a target="_blank" href="http://www.php.net/curl_getinfo"><span class="kw3">curl_getinfo</span></a><span class="br0">(</span><span class="re0">$curlHandle</span><span class="br0">)</span><span class="sy0">;</span>
+&nbsp;
+		<a target="_blank" href="http://www.php.net/curl_close"><span class="kw3">curl_close</span></a><span class="br0">(</span><span class="re0">$curlHandle</span><span class="br0">)</span><span class="sy0">;</span>
+	<span class="br0">}</span></pre>
+
+<p>
+Looks like a lot of code, but it’s actually pretty simple stuff.
+</p>
+
+<p>
+First, looking at execute, you’ll see that we set up a curl handle variable ($ch), and then run the setAuth function. Since we pass $ch around by reference, the functions will directly manipulate the variable without any need to return it. Now, I could make the $ch a member variable, but for the sake of this example, I wanted to show how everything gets passed around a little more explicitly. Anyway, the next thing we do is normalize the verb, and run through our switch statement to determine what function will get executed. If we don’t find a matching case, we throw an exception. We also wrap the whole thing in a try / catch block so we can properly catch exceptions, close our curl handle, then throw the exception again (presumably for some other error handler or try / catch block elsewhere in the code).
+</p>
+
+<p>
+Moving on to the doExecute function, you’ll see all we really do here is set all the common curl options with setCurlOpts, execute the request, and get the response body and info. We’ll take a look at those in a bit, but let’s get to the individual request functions.
+</p>
+
+</div><h4 id="get-requests">GET Requests<a class="anchorjs-link " href="https://almond.petros.xyz/php/php#get-requests" aria-label="Anchor link for: get requests" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; line-height: 1; padding-left: 0.375em;"></a></h4><div class="level4">
+
+<p>
+These requests are about as easy as they get. Since your params will be a part of the <abbr title="" data-original-title="Uniform Resource Locator">URL</abbr>, there isn’t much to do outside of actually making the request. So our code is nice and easy:
+</p>
+<pre class="code php">	<span class="kw2">protected</span> <span class="kw2">function</span> executeGet <span class="br0">(</span><span class="re0">$ch</span><span class="br0">)</span>
+	<span class="br0">{</span>
+		<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">doExecute</span><span class="br0">(</span><span class="re0">$ch</span><span class="br0">)</span><span class="sy0">;</span>
+	<span class="br0">}</span></pre>
+
+<p>
+‘Nuff said :)
+</p>
+
+</div><h4 id="post-requests">POST Requests<a class="anchorjs-link " href="https://almond.petros.xyz/php/php#post-requests" aria-label="Anchor link for: post requests" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; line-height: 1; padding-left: 0.375em;"></a></h4><div class="level4">
+
+<p>
+These too are pretty easy to accomplish, and POSTing with Curl is well-documented. Nonetheless, here’s what our function looks like:
+</p>
+<pre class="code php">	<span class="kw2">protected</span> <span class="kw2">function</span> executePost <span class="br0">(</span><span class="re0">$ch</span><span class="br0">)</span>
+	<span class="br0">{</span>
+		<span class="kw1">if</span> <span class="br0">(</span><span class="sy0">!</span><a target="_blank" href="http://www.php.net/is_string"><span class="kw3">is_string</span></a><span class="br0">(</span><span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">requestBody</span><span class="br0">)</span><span class="br0">)</span>
+		<span class="br0">{</span>
+			<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">buildPostBody</span><span class="br0">(</span><span class="br0">)</span><span class="sy0">;</span>
+		<span class="br0">}</span>
+&nbsp;
+		<a target="_blank" href="http://www.php.net/curl_setopt"><span class="kw3">curl_setopt</span></a><span class="br0">(</span><span class="re0">$ch</span><span class="sy0">,</span> CURLOPT_POSTFIELDS<span class="sy0">,</span> <span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">requestBody</span><span class="br0">)</span><span class="sy0">;</span>
+		<a target="_blank" href="http://www.php.net/curl_setopt"><span class="kw3">curl_setopt</span></a><span class="br0">(</span><span class="re0">$ch</span><span class="sy0">,</span> CURLOPT_POST<span class="sy0">,</span> <span class="nu0">1</span><span class="br0">)</span><span class="sy0">;</span>
+&nbsp;
+		<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">doExecute</span><span class="br0">(</span><span class="re0">$ch</span><span class="br0">)</span><span class="sy0">;</span>
+	<span class="br0">}</span></pre>
+
+<p>
+All we really do here is make sure the request body is a string, and if it isn’t that means we need to prepare it… so we do. Then we tell Curl to make a POST request with the provided POST body. That’s all there is to it! Moving on…
+PUT Requests in PHP
+</p>
+
+<p>
+Ah, PUT requests… These are the big mystery. Admittedly, there are a few articles out there covering how to do them, but they’re not super-easy to come across. I did, however, manage to find a few and here’s what I came up with:
+</p>
+<pre class="code php">	<span class="kw2">protected</span> <span class="kw2">function</span> executePut <span class="br0">(</span><span class="re0">$ch</span><span class="br0">)</span>
+	<span class="br0">{</span>
+		<span class="kw1">if</span> <span class="br0">(</span><span class="sy0">!</span><a target="_blank" href="http://www.php.net/is_string"><span class="kw3">is_string</span></a><span class="br0">(</span><span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">requestBody</span><span class="br0">)</span><span class="br0">)</span>
+		<span class="br0">{</span>
+			<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">buildPostBody</span><span class="br0">(</span><span class="br0">)</span><span class="sy0">;</span>
+		<span class="br0">}</span>
+&nbsp;
+		<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">requestLength</span> <span class="sy0">=</span> <a target="_blank" href="http://www.php.net/strlen"><span class="kw3">strlen</span></a><span class="br0">(</span><span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">requestBody</span><span class="br0">)</span><span class="sy0">;</span>
+&nbsp;
+		<span class="re0">$fh</span> <span class="sy0">=</span> <a target="_blank" href="http://www.php.net/fopen"><span class="kw3">fopen</span></a><span class="br0">(</span><span class="st_h">'php://memory'</span><span class="sy0">,</span> <span class="st_h">'rw'</span><span class="br0">)</span><span class="sy0">;</span>
+		<a target="_blank" href="http://www.php.net/fwrite"><span class="kw3">fwrite</span></a><span class="br0">(</span><span class="re0">$fh</span><span class="sy0">,</span> <span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">requestBody</span><span class="br0">)</span><span class="sy0">;</span>
+		<a target="_blank" href="http://www.php.net/rewind"><span class="kw3">rewind</span></a><span class="br0">(</span><span class="re0">$fh</span><span class="br0">)</span><span class="sy0">;</span>
+&nbsp;
+		<a target="_blank" href="http://www.php.net/curl_setopt"><span class="kw3">curl_setopt</span></a><span class="br0">(</span><span class="re0">$ch</span><span class="sy0">,</span> CURLOPT_INFILE<span class="sy0">,</span> <span class="re0">$fh</span><span class="br0">)</span><span class="sy0">;</span>
+		<a target="_blank" href="http://www.php.net/curl_setopt"><span class="kw3">curl_setopt</span></a><span class="br0">(</span><span class="re0">$ch</span><span class="sy0">,</span> CURLOPT_INFILESIZE<span class="sy0">,</span> <span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">requestLength</span><span class="br0">)</span><span class="sy0">;</span>
+		<a target="_blank" href="http://www.php.net/curl_setopt"><span class="kw3">curl_setopt</span></a><span class="br0">(</span><span class="re0">$ch</span><span class="sy0">,</span> CURLOPT_PUT<span class="sy0">,</span> <span class="kw4">true</span><span class="br0">)</span><span class="sy0">;</span>
+&nbsp;
+		<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">doExecute</span><span class="br0">(</span><span class="re0">$ch</span><span class="br0">)</span><span class="sy0">;</span>
+&nbsp;
+		<a target="_blank" href="http://www.php.net/fclose"><span class="kw3">fclose</span></a><span class="br0">(</span><span class="re0">$fh</span><span class="br0">)</span><span class="sy0">;</span>
+	<span class="br0">}</span></pre>
+
+<p>
+A little funky, right? Well, this boils down to the way PUT requests are technically supposed to work. RESTful APIs don’t quite use a PUT the way they were originally intended, which is for file uploads. As such, we need to stream the data to the web server. So we open an internal php memory resource, write our request body to it, and then pass the handle for that memory resource to curl. We also calculate the size of it (in bytes), so that our full body will be received on the <abbr title="" data-original-title="Application Programming Interface">API</abbr> side of things. I suppose that doesn’t necessarily need to make any sense to you, as long as you trust that it works ;)
+</p>
+
+</div><h4 id="delete-requests-in-php">DELETE Requests in PHP<a class="anchorjs-link " href="https://almond.petros.xyz/php/php#delete-requests-in-php" aria-label="Anchor link for: delete requests in php" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; line-height: 1; padding-left: 0.375em;"></a></h4><div class="level4">
+
+<p>
+Deletes, when done as they’re intended (no post body), are easy. Remember, you’re not really supposed to send any body for a delete request, as you’re merely sending a command to a resource (i.e. /api/user/1). Here’s the code:
+</p>
+<pre class="code php">	<span class="kw2">protected</span> <span class="kw2">function</span> executeDelete <span class="br0">(</span><span class="re0">$ch</span><span class="br0">)</span>
+	<span class="br0">{</span>
+		<a target="_blank" href="http://www.php.net/curl_setopt"><span class="kw3">curl_setopt</span></a><span class="br0">(</span><span class="re0">$ch</span><span class="sy0">,</span> CURLOPT_CUSTOMREQUEST<span class="sy0">,</span> <span class="st_h">'DELETE'</span><span class="br0">)</span><span class="sy0">;</span>
+&nbsp;
+		<span class="re0">$this</span><span class="sy0">-&gt;</span><span class="me1">doExecute</span><span class="br0">(</span><span class="re0">$ch</span><span class="br0">)</span><span class="sy0">;</span>
+	<span class="br0">}</span></pre>
+
+<p>
+Now, if you need to send a body for some reason, you can do it by adding the same stuff you use for a PUT request, but swap out the CURLOPT_PUT line for the existing CURLOPT_CUSTOMREQUEST line that we’ve got in this function. I don’t advocate this, but it works like a champ if you need it.
+</p>
+
+</div><h4 id="the-response">The Response<a class="anchorjs-link " href="https://almond.petros.xyz/php/php#the-response" aria-label="Anchor link for: the response" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; line-height: 1; padding-left: 0.375em;"></a></h4><div class="level4">
+
+<p>
+Now that we’ve got a fully functioning REST requester, let’s take a look at a response. So, making a request against an imaginary <abbr title="" data-original-title="Application Programming Interface">API</abbr> looks something like:
+</p>
+<pre class="code php"><span class="re0">$request</span> <span class="sy0">=</span> <span class="kw2">new</span> RestRequest<span class="br0">(</span><span class="st_h">'http://example.com/api/user/1'</span><span class="sy0">,</span> <span class="st_h">'GET'</span><span class="br0">)</span><span class="sy0">;</span>
+<span class="re0">$request</span><span class="sy0">-&gt;</span><span class="me1">execute</span><span class="br0">(</span><span class="br0">)</span><span class="sy0">;</span>
+&nbsp;
+<span class="kw1">echo</span> <span class="st_h">'&lt;pre&gt;'</span> <span class="sy0">.</span> <a target="_blank" href="http://www.php.net/print_r"><span class="kw3">print_r</span></a><span class="br0">(</span><span class="re0">$request</span><span class="sy0">,</span> <span class="kw4">true</span><span class="br0">)</span> <span class="sy0">.</span> <span class="st_h">'&lt;/pre&gt;'</span><span class="sy0">;</span></pre>
+
+<p>
+Which gives us output similar to:
+</p>
+<pre class="code php">RestRequest Object
+<span class="br0">(</span>
+    <span class="br0">[</span>url<span class="sy0">:</span><span class="kw2">protected</span><span class="br0">]</span> <span class="sy0">=&gt;</span> http<span class="sy0">:</span><span class="co1">//example.com/api/user/1</span>
+    <span class="br0">[</span>verb<span class="sy0">:</span><span class="kw2">protected</span><span class="br0">]</span> <span class="sy0">=&gt;</span> GET
+    <span class="br0">[</span>requestBody<span class="sy0">:</span><span class="kw2">protected</span><span class="br0">]</span> <span class="sy0">=&gt;</span>
+    <span class="br0">[</span>requestLength<span class="sy0">:</span><span class="kw2">protected</span><span class="br0">]</span> <span class="sy0">=&gt;</span> <span class="nu0">0</span>
+    <span class="br0">[</span>username<span class="sy0">:</span><span class="kw2">protected</span><span class="br0">]</span> <span class="sy0">=&gt;</span>
+    <span class="br0">[</span>password<span class="sy0">:</span><span class="kw2">protected</span><span class="br0">]</span> <span class="sy0">=&gt;</span>
+    <span class="br0">[</span>acceptType<span class="sy0">:</span><span class="kw2">protected</span><span class="br0">]</span> <span class="sy0">=&gt;</span> application<span class="sy0">/</span>json
+    <span class="br0">[</span>responseBody<span class="sy0">:</span><span class="kw2">protected</span><span class="br0">]</span> <span class="sy0">=&gt;</span> <span class="br0">[</span>RESPONSE BODY HERE<span class="br0">]</span>
+    <span class="br0">[</span>responseInfo<span class="sy0">:</span><span class="kw2">protected</span><span class="br0">]</span> <span class="sy0">=&gt;</span> <a target="_blank" href="http://www.php.net/array"><span class="kw3">Array</span></a>
+        <span class="br0">(</span>
+            <span class="br0">[</span>url<span class="br0">]</span> <span class="sy0">=&gt;</span> http<span class="sy0">:</span><span class="co1">//example.com/api/user/1</span>
+            <span class="br0">[</span>content_type<span class="br0">]</span> <span class="sy0">=&gt;</span> application<span class="sy0">/</span>json
+            <span class="br0">[</span>http_code<span class="br0">]</span> <span class="sy0">=&gt;</span> <span class="nu0">200</span>
+            <span class="br0">[</span>header_size<span class="br0">]</span> <span class="sy0">=&gt;</span> <span class="nu0">232</span>
+            <span class="br0">[</span>request_size<span class="br0">]</span> <span class="sy0">=&gt;</span> <span class="nu0">192</span>
+            <span class="br0">[</span>filetime<span class="br0">]</span> <span class="sy0">=&gt;</span> <span class="sy0">-</span><span class="nu0">1</span>
+            <span class="br0">[</span>ssl_verify_result<span class="br0">]</span> <span class="sy0">=&gt;</span> <span class="nu0">0</span>
+            <span class="br0">[</span>redirect_count<span class="br0">]</span> <span class="sy0">=&gt;</span> <span class="nu0">0</span>
+            <span class="br0">[</span>total_time<span class="br0">]</span> <span class="sy0">=&gt;</span> <span class="nu19">0.015693</span>
+            <span class="br0">[</span>namelookup_time<span class="br0">]</span> <span class="sy0">=&gt;</span> <span class="nu19">0.0004</span>
+            <span class="br0">[</span>connect_time<span class="br0">]</span> <span class="sy0">=&gt;</span> <span class="nu19">0.000571</span>
+            <span class="br0">[</span>pretransfer_time<span class="br0">]</span> <span class="sy0">=&gt;</span> <span class="nu19">0.000619</span>
+            <span class="br0">[</span>size_upload<span class="br0">]</span> <span class="sy0">=&gt;</span> <span class="nu0">0</span>
+            <span class="br0">[</span>size_download<span class="br0">]</span> <span class="sy0">=&gt;</span> <span class="nu0">4276</span>
+            <span class="br0">[</span>speed_download<span class="br0">]</span> <span class="sy0">=&gt;</span> <span class="nu0">272478</span>
+            <span class="br0">[</span>speed_upload<span class="br0">]</span> <span class="sy0">=&gt;</span> <span class="nu0">0</span>
+            <span class="br0">[</span>download_content_length<span class="br0">]</span> <span class="sy0">=&gt;</span> <span class="nu0">4276</span>
+            <span class="br0">[</span>upload_content_length<span class="br0">]</span> <span class="sy0">=&gt;</span> <span class="nu0">0</span>
+            <span class="br0">[</span>starttransfer_time<span class="br0">]</span> <span class="sy0">=&gt;</span> <span class="nu19">0.015655</span>
+            <span class="br0">[</span>redirect_time<span class="br0">]</span> <span class="sy0">=&gt;</span> <span class="nu0">0</span>
+        <span class="br0">)</span>
+<span class="br0">)</span></pre>
+
+<p>
+Take a look at the responseInfo… we’ve got our status code, and all sorts of other good stuff. And, believe it or not, we’re done!
+</p>
+
+</div><h4 id="wrapping-up">Wrapping Up<a class="anchorjs-link " href="https://almond.petros.xyz/php/php#wrapping-up" aria-label="Anchor link for: wrapping up" data-anchorjs-icon="" style="font-family: anchorjs-icons; font-style: normal; font-variant: normal; font-weight: normal; line-height: 1; padding-left: 0.375em;"></a></h4><div class="level4">
+
+<p>
+Of course, as with all my samples, there’s a lot left for you to do. You’ll probably want to do some processing of the response body and info (such as extracting the status code), or make a few things more robust, but this is all you should need to get started. Hopefully, after this article and the previous one, you’ve got a good idea of how REST APIs work from the server-side, to the client-side, and you’re ready to jump on the REST bandwagon. If you’re not yet convinced… go play with some SOAP APIs, that ought to change your mind ;)
+</p>
+
+<p>
+Finally, you can grab the final copy of the class, complete with getters / setters at the link below:
+<a href="https://web.archive.org/web/20130921214725/http://www.gen-x-design.com/wp-content/uploads/2009/05/restrequestincphp1.zip" class="urlextern" target="_blank" title="https://web.archive.org/web/20130921214725/http://www.gen-x-design.com/wp-content/uploads/2009/05/restrequestincphp1.zip" rel="ugc nofollow noopener"> RestRequest.inc.php – Final Source Code</a>
+</p>
+
+<p>
+Source: <a href="https://web.archive.org/web/20130921214725/http://www.gen-x-design.com/archives/making-restful-requests-in-php/" class="urlextern" target="_blank" title="https://web.archive.org/web/20130921214725/http://www.gen-x-design.com/archives/making-restful-requests-in-php/" rel="ugc nofollow noopener">https://web.archive.org/web/20130921214725/http://www.gen-x-design.com/archives/making-restful-requests-in-php/</a><br>
+
+</p>
+
+</div><div class="secedit editbutton_section editbutton_7"><form class="button btn_secedit form-inline" method="post" action="https://almond.petros.xyz/php/php"><div class="no"><input type="hidden" name="do" value="edit"><input type="hidden" name="rev" value="1778067332"><input type="hidden" name="summary" value="[Section 2] "><input type="hidden" name="target" value="section"><input type="hidden" name="hid" value="section-2"><input type="hidden" name="codeblockOffset" value="20"><input type="hidden" name="range" value="32547-"><button type="submit" title="Section 2" class="btn btn-xs btn-default btn btn-default"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:pencil" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83l3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z" fill="currentColor"></path></svg> Edit</button></div></form></div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><!-- /content --></div>
+                    </div>
+                </div>
+
+                <div class="small text-right">
+
+                                        <span class="docInfo">
+                        <ul class="list-inline"><li><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify text-muted" data-icon="mdi:calendar" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M19 19H5V8h14m-3-7v2H8V1H6v2H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2h-1V1m-1 11h-5v5h5v-5z" fill="currentColor"></path></svg> Last modified: <span title="2026/05/06 11:35">2026/05/06 11:35</span></li><li class="text-muted">by <bdi>admin</bdi></li></ul>                    </span>
+                    
+                    
+                </div>
+
+            </article>
+
+            
+        </div>
+
+    </main>
+
+    <footer id="dw__footer" class="dw-container py-5 dokuwiki container-fluid">
+        <!-- footer -->
+<div class="dw-container small container-fluid mx-5">
+
+    
+    <div class="footer-dw-title">
+                <div class="media">
+            <div class="media-left">
+                <img src="./restfull-api_files/logo.png" alt="Almond: [directory links]" class="media-object" style="height:32px">
+            </div>
+            <div class="media-body">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <h4 class="media-heading">Almond: [directory links]</h4>
+                        <p>
+                                                    </p>
+                    </div>
+                    <div class="col-sm-10">
+                                            </div>
+                </div>
+            </div>
+        </div>
+                    </div>
+
+    <div class="footer-license row">
+        <hr>
+        <div id="dw__license" class="col-sm-6">
+                        <p>
+                <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" title="CC Attribution-Share Alike 4.0 International" target="_blank" itemscope="" itemtype="http://schema.org/CreativeWork" itemprop="license" rel="license" class="license navbar-link"><img src="./restfull-api_files/cc.png" width="24" height="24" alt="cc"> <img src="./restfull-api_files/by.png" width="24" height="24" alt="by"> <img src="./restfull-api_files/sa.png" width="24" height="24" alt="sa"> </a>            </p>
+            <p class="small">
+                Except where otherwise noted, content on this wiki is licensed under the following license:<br><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" title="CC Attribution-Share Alike 4.0 International" target="_blank" itemscope="" itemtype="http://schema.org/CreativeWork" itemprop="license" rel="license" class="license navbar-link">CC Attribution-Share Alike 4.0 International</a>            </p>
+                    </div>
+
+        <div class="col-sm-6">
+            <!-- badges -->
+<div class="text-right">
+    <ul id="dw__badges" class="list-inline hidden-print">
+
+        <li>
+            <a href="https://www.dokuwiki.org/template:bootstrap3" title="Bootstrap template for DokuWiki" target="_blank" class="navbar-link">
+                <img src="./restfull-api_files/bootstrap.png" width="20" alt="Bootstrap template for DokuWiki">
+            </a>
+        </li>
+
+        <li>
+            <a href="https://www.php.net/" title="Powered by PHP" target="_blank" class="navbar-link">
+                <img src="./restfull-api_files/php(1).png" width="20" alt="Powered by PHP">
+            </a>
+        </li>
+
+        <li>
+            <a href="http://validator.w3.org/check/referer" title="Valid HTML5" target="_blank" class="navbar-link">
+                <img src="./restfull-api_files/html5.png" width="20" alt="Valid HTML5">
+            </a>
+        </li>
+
+        <li>
+            <a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3" title="Valid CSS" target="_blank" class="navbar-link">
+                <img src="./restfull-api_files/css3.png" width="20" alt="Valid CSS">
+            </a>
+        </li>
+
+        <li>
+            <a href="https://www.dokuwiki.org/" title="Driven by DokuWiki" target="_blank" class="navbar-link">
+                <img src="./restfull-api_files/logo(1).png" width="20" alt="Driven by DokuWiki">
+            </a>
+        </li>
+
+    </ul>
+</div>
+<!-- /badges -->
+
+        </div>
+
+    </div>
+
+</div>
+<!-- /footer -->
+    </footer>
+
+    <a href="https://almond.petros.xyz/php/php#dokuwiki__top" class="back-to-top hidden-print btn btn-default" title="skip to content" accesskey="t" style="display: inline;">
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="iconify" data-icon="mdi:chevron-up" style="vertical-align: -0.125em; transform: rotate(360deg);"><path d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6l-6 6l1.41 1.41z" fill="currentColor"></path></svg>    </a>
+
+    <div id="screen__mode">        <span class="visible-xs-block"></span>
+        <span class="visible-sm-block"></span>
+        <span class="visible-md-block"></span>
+        <span class="visible-lg-block"></span>
+    </div>
+
+    <img src="./restfull-api_files/taskrunner.php" width="2" height="1" alt="">
+</div>
+
+
+
+</body></html>

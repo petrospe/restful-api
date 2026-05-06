@@ -1,0 +1,21 @@
+{
+  "name": "epoptia/restfull-api",
+  "description": "Small PHP 8.4 RESTful API implementation based on the bundled REST tutorial notes.",
+  "type": "project",
+  "license": "proprietary",
+  "require": {
+    "php": ">=8.4",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-simplexml": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "RestFullApi\\": "src/"
+    }
+  },
+  "scripts": {
+    "test": "php tests/run.php",
+    "serve": "php -S 127.0.0.1:8080 -t public public/index.php"
+  }
+}
